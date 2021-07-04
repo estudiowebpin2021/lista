@@ -71,8 +71,6 @@ http://www.coninfo.net:1935/9linklive/live/playlist.m3u8
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m3u8 
 #EXTINF:-1 tvg-id=tvg-name="Canal 2 Mar del Plata" tvg-logo="https://lh3.googleusercontent.com/-JtAR5L5DJTM/Xx4FT5BIoII/AAAAAAAA3hI/MrIvjOkijt0tl7brflyUUTS_gBsJiGxOgCK8BGAsYHg/s0/2020-07-26.png", Canal 2 Mar del Plata
 https://streamcasthd.com:19360/canal2mdp/canal2mdp.m3u8 
-#EXTINF:-1 tvg-id=tvg-name="Canal 3 Rosario" tvg-logo="https://lh3.googleusercontent.com/-bQQ-LJtusqs/Xzgfk782ZiI/AAAAAAAA4XA/H40-oyzIZ_I8KqznT-hA1UwJW9EKjicqgCK8BGAsYHg/s0/2020-08-15.png", Canal 3 Rosario
-https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8 
 #EXTINF:-1 tvg-id=tvg-name="Canal 4 Bahia Blanca" tvg-logo="https://lh3.googleusercontent.com/-bfgU_ufKFps/XrYKd9HJC_I/AAAAAAAA0hY/TxCOOPSR-R8fBb8zd9ThamFRUKIRsoFrACK8BGAsYHg/s0/2020-05-08.png", Canal 4 Bahia Blanca
 https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8 
 #EXTINF:-1 tvg-id=tvg-name="Canal 4 Jujuy" tvg-logo="https://lh3.googleusercontent.com/-mheC_82BX9k/XjtJQGo368I/AAAAAAAAvrE/3PLKryDEU3UT_TEYgef0tCaWxwj2OJtLQCK8BGAsYHg/s0/2020-02-05.png", Canal 4 Jujuy
