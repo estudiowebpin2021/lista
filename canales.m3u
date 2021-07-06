@@ -169,3 +169,5 @@ https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
 http://streamingvideo.com.ar:1935/10tv/live/playlist.m3u8 
 #EXTINF:-1 tvg-id=tvg-name="Canal Rural" tvg-logo="https://lh3.googleusercontent.com/-6W3lyz48LJQ/X8__9zMfZDI/AAAAAAAA8Cs/yddCBer685MzMn3-Z4sqv6IouOkY_hdcgCK8BGAsYHg/s0/2020-12-08.jpg", Canal Rural
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8 
+#EXTINF:-1 tvg-id=tvg-name="Star Channel" tvg-logo="https://1.bp.blogspot.com/-gvcQET1x5rg/YDPMZx8F6LI/AAAAAAAAZm0/ao6F2J-8U0YS73kT0nET6x4JkvYirl-HgCLcBGAsYHQ/s16000/Star_Channel_logo.svg.png", Star Channel
+https://cdn.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8
