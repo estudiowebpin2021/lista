@@ -3,219 +3,226 @@
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 #EXTINF:-1 tvg-id=tvg-name="Canal 3 Rosario" tvg-logo="https://lh3.googleusercontent.com/-bQQ-LJtusqs/Xzgfk782ZiI/AAAAAAAA4XA/H40-oyzIZ_I8KqznT-hA1UwJW9EKjicqgCK8BGAsYHg/s0/2020-08-15.png"group-title="NOTICIAS", Canal 3 Rosario
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
-#EXTINF:-1, LOCOMOTION
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-#EXTINF:-1, Star Channel
-https://edge1.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8
-#EXTINF:-1,DEPORTES: TUDN MEXICO
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40968
-#EXTINF:-1,BEIN ESPORT SD
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40971
-#EXTINF:-1,CartoonNetwork
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40972
-#EXTINF:-1,FoxSports3 SD
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40976
-#EXTINF:-1,Estrella TV
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40977
-#EXTINF:-1,FoxSport1 SD
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40978
-#EXTINF:-1,HBO SD
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40979
-#EXTINF:-1,UNIVISION SD
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40980
-#EXTINF:-1,Canal FOX Mexico SD
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40981
-#EXTINF:-1,FX Latin SD
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40982
-#EXTINF:-1,SD: A&E LATINO
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40983
-#EXTINF:-1,SD: FOX_LIFE
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40984
-#EXTINF:-1,SD: TBS
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40985
-#EXTINF:-1,SD: SYFY
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40986
-#EXTINF:-1,SD: AXN
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40988
-#EXTINF:-1,SD: UNIVERSAL
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40989
-#EXTINF:-1,SD: Warner
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40990
-#EXTINF:-1,SD: SONY
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40991
-#EXTINF:-1,SD: STUDIO UNIVERSAL
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40992
-#EXTINF:-1,SD: TNT SERIES
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40993
-#EXTINF:-1,SD: E!
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40994
-#EXTINF:-1,SD: COMEDY CENTRAL
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40995
-#EXTINF:-1,SD: HISTORY CHANNEL
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40996
-#EXTINF:-1,SD: NATIONAL GEOGRAPHIC
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40997
-#EXTINF:-1,SD: DISCOVERY CHANNEL
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40998
-#EXTINF:-1,SD: ANIMAL PLANET
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41000
-#EXTINF:-1,SD: NICK JR
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41001
-#EXTINF:-1,SD: DISCOVERY KIDS
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41002
-#EXTINF:-1,SD: DISNEY JUNIOR
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41003
-#EXTINF:-1,SD: NICKELODEON
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41004
-#EXTINF:-1,SD: DISNEY XD
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41005
-#EXTINF:-1,SD: DISNEY CHANNEL
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41006
-#EXTINF:-1,SD Fox Sports 2
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41007
-#EXTINF:-1,SD: ESPN 3
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41008
-#EXTINF:-1,SD: ESPN 2
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41009
-#EXTINF:-1,SD: ESPN
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41010
-#EXTINF:-1,SD: CLARO SPORT
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41011
-#EXTINF:-1,SD: HolaTv
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41012
-#EXTINF:-1,SD: TNT
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41014
-#EXTINF:-1,SD: HBO2
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41015
-#EXTINF:-1,SD: HBO Family
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41016
-#EXTINF:-1,SD: FOX FAMILY
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41017
-#EXTINF:-1,SD: MAX PRIME
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41018
-#EXTINF:-1,SD: BabyTvLAT America
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41019
-#EXTINF:-1,BOORMERANG MEXICO
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41020
-#EXTINF:-1,SD: NBC SPORT
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41021
-#EXTINF:-1,SD: NatGeoKids
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41022
-#EXTINF:-1,ESPN DEPORTES
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41023
-#EXTINF:-1,SD: TUDN
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41024
-#EXTINF:-1,SD: UNICABLE
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41025
-#EXTINF:-1,SD: SPACEMEXICO
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41027
-#EXTINF:-1,SD: MTV HITLIST
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41028
-#EXTINF:-1,SD: MTVLA
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41029
-#EXTINF:-1,SD: VH1
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41030
-#EXTINF:-1,SD: VROLA
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41031
-#EXTINF:-1,SD: TELEMUNDO
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41032
-#EXTINF:-1,SD: FOODN
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41033
-#EXTINF:-1,SD: DISCOVERY FAMILY
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41034
-#EXTINF:-1,SD: BRAVO TV
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41035
-#EXTINF:-1,SD: CNN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQFUby8.png" group-title="NOTICIAS", 26 
+https://tv.teleclub.xyz/live/EXTERNA_26TV_ARG.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VZH3c3O.png" group-title="NOTICIAS", El nueve  
+https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI2MDMyMDc5LCJzZXNzaW9uIjoiMTg2LjEyMi4xOC4xNyIsIndoaXRlbGlzdCI6WyIyODAzOjk4MDA6OThjNDo4M2M1Ojc1ZTI6MTEwNzoxZGJjOjczYjYiXX0sInNpZ25hdHVyZSI6IjE2NGYwZTVhMTc2OTI3ZDJiMzBkNWMwM2RhOTJjNjQ1ODZjZTc3NzUifQ%3D%3D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="NOTICIAS", Telefe  
+https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/index_1_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1626032193~acl=%2fi%2fappmitelefe_1%40326430%2f*~data=hdntl~hmac=c4dd7b78049f1c4cce6c83041f654c63618e9220ce80eb195ea79f5621a0ff90
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uYOLwOj.png" group-title="NOTICIAS", El trece  
+https://29hm3pwm68.azcdn107.net:8443/hls/s7smi57g.m3u8?s=kH3f1GCnDUaEkst7WVvrMA&e=1625967530
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Y9uawT.png" group-title="NOTICIAS", CNN en Espanol  
 http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41036
-#EXTINF:-1,SD: ATRES
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41047
-#EXTINF:-1,INGENIO TV
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41054
-#EXTINF:-1,Sky Sport Bundesliga 1 HD
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41055
-#EXTINF:-1,FORMULA 1
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41056
-#EXTINF:-1,ESPA: COMEDY CENTRAL
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41062
-#EXTINF:-1,ESPA: AMC
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41063
-#EXTINF:-1,ESPA: TOROS HD
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41064
-#EXTINF:-1,ESPA: TNT
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41065
-#EXTINF:-1,ESPA: TAQ 6
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41066
-#EXTINF:-1,ESPA: TAQ 5
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41067
-#EXTINF:-1,ESPA: TAQ 4
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41068
-#EXTINF:-1,ESPA: TAQ 3
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41069
-#EXTINF:-1,ESPA: TAQ 2
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41070
-#EXTINF:-1,ESPA: TAQ 1
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41071
-#EXTINF:-1,ESPA: SYFY HD
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41072
-#EXTINF:-1,ESPA: SERIES HD
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41073
-#EXTINF:-1,SD: UNIVERSO
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41452
-#EXTINF:-1,fox sport 1
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41461
-#EXTINF:-1,MLB
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41463
-#EXTINF:-1,NBA
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41464
-#EXTINF:-1,REALMADRID
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41466
-#EXTINF:-1,FOX SPORT 3
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41467
-#EXTINF:-1,ESPN 1
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41468
-#EXTINF:-1,ESPN EXTRA
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41469
-#EXTINF:-1,ESPN 2
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41470
-#EXTINF:-1,Multimedios
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41471
-#EXTINF:-1,DW
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41473
-#EXTINF:-1,CINEMAX
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41475
-#EXTINF:-1,CINECANAL
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41476
-#EXTINF:-1,FXM
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41477
-#EXTINF:-1,CINELATINO
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41478
-#EXTINF:-1,ISAT
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41479
-#EXTINF:-1,PARAMOOUNT
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41480
-#EXTINF:-1,PASIONES
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41482
-#EXTINF:-1,GOLDEN PREMIER
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41484
-#EXTINF:-1,foxFamily
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41488
-#EXTINF:-1,HBO
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41491
-#EXTINF:-1,HBOPlus
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41492
-#EXTINF:-1,LIFETIME
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qv3P4pm.png" group-title="NOTICIAS", RT en Español  
+https://rt-esp.secure.footprint.net/1102_4500Kb.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mR7mxPY.png" group-title="NOTICIAS", TV Publica Argentina  
+https://youtu.be/8fC1ePIbJcI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/55x9NTr.jpg" group-title="NOTICIAS", Telemundo  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41032
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ojP9uxU.png" group-title="NOTICIAS", America TV  
+ 3/AMERICATV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Cartoon Network  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40972
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil", Disney Channel  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41006
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NLNivxd.jpg" group-title="Infantil", Disney XD  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41005
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil", Disney Jr  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41003
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bDD2PT7.jpg" group-title="Infantil", NATGEO Kids  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41022
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil", Nickelodeon  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41004
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Infantil", NICK JR  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41001
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3eZIO3.png" group-title="Infantil", BabyTV  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41019
+#EXTINF:-1 tvg-logo="https://i.imgur.com/brvWB3u.png" group-title="Infantil", Discovery Kids  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41002
+#EXTINF:-1 tvg-logo="https://cn.i.cdn.ti-platform.com/cnlatam/content/1057/showpage/boomerang/ar/cardposta.jpg" group-title="Infantil", Boomerang
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41020
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iiw3ibE.png" group-title="MUNDO", Lifetime  
 http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41495
-#EXTINF:-1,9603UNIMW
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41497
-#EXTINF:-1,GALAVISION
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41498
-#EXTINF:-1,MC
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41500
-#EXTINF:-1,MultiPremiere
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41501
-#EXTINF:-1,TL PR
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41502
-#EXTINF:-1,UNIVISION PR
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41503
-#EXTINF:-1, TELEFE HD 
-http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EaWNj3F.jpg" group-title="MUNDO", Hola!  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41012
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pTPpWJi.jpg" group-title="Cultura", Animal Planet  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41000
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="Cultura", Discovery Channel  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40998
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HWv6NHE.jpg" group-title="Cultura", Discovery Turbo  
+ 2/DTURBO.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n8yegix.jpg" group-title="Cultura", Discovery World  
+ 2/DWORLD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dCIf15Q.jpg" group-title="Cultura", Discovery Theater  
+ 2/DTHEATER.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MyPyuM2.jpg" group-title="Cultura", Discovery Sciences  
+ 2/DSCIENCES.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OO9PaGb.jpg" group-title="Cultura", Discovery H&H  
+ 2/DHYH.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zp8RIL3.jpg" group-title="Cultura", Investigation Discovery  
+ 2/ID.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSAhjs-zcOY0kZH9kJ0PW5LwEA_n6x4RVCXeO22sA=s900-c-k-c0x00ffffff-no-rj" group-title="Cultura",Discovery Family
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41034
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XW8CuxK.jpg" group-title="Cultura", TLC  
+ 2/TLC.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J897iGL.jpg" group-title="Cultura", History Channel  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40996
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ypR4tvy.jpg" group-title="Cultura", History 2  
+ 2/H2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dq6jLKm.jpg" group-title="Cultura", NATIONAL GEOGRAPHIC
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40997
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YFDNnoK.jpg" group-title="Cultura", NATGEO Wild  
+ 2/NATGEOWILD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Vaq92j.jpg" group-title="Cultura", A&E  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40983
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eHhcsEN.png" group-title="Entretenimiento", Star Channel  
+https://edge1.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8
+#EXTINF:-1,tvg-logo="https://i.imgur.com/eHhcsEN.png" group-title="Entretenimiento",Canal FOX Mexico 
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40981
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cy89pWC.png" group-title="Entretenimiento", Star Life  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40984
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MshuPCU.png" group-title="Entretenimiento", Star Action  
+ /FOXACTION.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7kRGbE6.png" group-title="Entretenimiento", Star Cinema  
+ /FOXCINEMA.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeLj0u.png" group-title="Entretenimiento", Star Comedy  
+ /FOXCOMEDY.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dvggMbn.png" group-title="Entretenimiento", Star Classics  
+ /FOXCLASSIC.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5eYXAxv.png" group-title="Entretenimiento", Star Fun  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41488
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W8qL6rh.png" group-title="Entretenimiento", Star Series  
+ /FOXSERIES.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ydSaYNJ.png" group-title="Entretenimiento", Star Hits  
+ /FOXMOVIES.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="Entretenimiento", HBO  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40979
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg" group-title="Entretenimiento", HBO2  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41015
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k9ctQko.jpg" group-title="Entretenimiento", HBO PLUS  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41492
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KQSKMwy.jpg" group-title="Entretenimiento", HBO FAMILY  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41016
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sVEsqdE.jpg" group-title="Entretenimiento", HBO SIGNATURE  
+ /HBOSIGNATURE.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UWB6lC9.jpg" group-title="Entretenimiento", HBO MUNDI  
+ /HBOMUNDI.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JeWg4u9.jpg" group-title="Entretenimiento", HBO POP  
+ /HBOPOP.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6DVZ2A.jpg" group-title="Entretenimiento", HBO XTREME  
+ /HBOXTREME.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EomyGGs.jpg" group-title="Entretenimiento", AMC  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41063
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Db6x442.jpg" group-title="Entretenimiento", Warner   
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40990
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="Entretenimiento", Universal   
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40989
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="Entretenimiento", FX  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40982
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XPgR9ky.jpg" group-title="Entretenimiento", FXM  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41477
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OdR3aff.jpg" group-title="Entretenimiento", AXN  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40988
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="Entretenimiento", Sony  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40991
+#EXTINF:-1,tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="Entretenimiento", SYFY
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40986
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dAQL5tZ.jpg" group-title="Entretenimiento", TNT  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41014
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="Entretenimiento", TNT Series  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40993
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Entretenimiento", Space  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41027
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="Entretenimiento", Studio Universal  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40992
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EOS4pd9.jpg" group-title="Entretenimiento", TBS  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40985
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ysV38FI.jpg" group-title="Entretenimiento", TCM  
+ /TCM.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tOWSdVk.jpg" group-title="Entretenimiento", Cinecanal  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41476
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="Entretenimiento", Cinemax  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41475
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ybgGUDk.jpg" group-title="Entretenimiento", Paramount Channel  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41480
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eKZASl.png" group-title="Entretenimiento", COMEDY CENTRAL
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41062
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden Plus  
+ /GOLDEN.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden Premier  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41484
+#EXTINF:-1 tvg-logo="https://i.cdn.turner.com/tntla/images/portal/fixed/cards/isat-redes.jpg" group-title="Entretenimiento", ISAT
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41479
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/c1/a4/6ec1a4fa0de54eab32777165fdd8b8bc.jpg" group-title="Entretenimiento",E!
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40994
+#EXTINF:-1,tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-prime_m.png" group-title="Entretenimiento", MAX PRIME
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41018
+#EXTINF:-1 tvg-id="80288" tvg-name="Music Top" tvg-logo="https://lh3.googleusercontent.com/-6Em4fzTLMuU/XjtHLf96jvI/AAAAAAAAvqU/q3DfxbUdSiMDRDB1VBh_3hu3WDK_Nr-egCK8BGAsYHg/s0/2020-02-05.png"group-title="Musica", Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="108687" tvg-name="Power" tvg-logo="https://lh3.googleusercontent.com/-OK87fh0FDss/X1TJ_IQLsnI/AAAAAAAA5Tw/Kqs7XCSrP1caCJnMnM3nrIPhHV02XZMzQCK8BGAsYHg/s0/2020-09-06.png"group-title="Musica", Power
+https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
+#EXTINF:-1 tvg-id="106792" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png"group-title="Musica", Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ai3ZUG5.jpg" group-title="Musica", Top Music  
+https://tv.teleclub.xyz/live/EXTERNA_TOPMUSIC_247.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" group-title="Musica", MTV  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41029
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" group-title="Musica", MTV Hits  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41028
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jD15gnL.jpg" group-title="Musica", VH1 CLASSIC  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41030
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xjnOlda.png" group-title="Deportes", Fox Sport Premium  
+ /FOXSPORTSPREMIUM.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sQgcpZY.png" group-title="Deportes", TNT SPORT  
+ 2/TNTSPORTS.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6VFa7F6.png" group-title="Deportes", Estadio TNT Sports  
+ /TNTSPORTS.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ci3KvrE.png" group-title="Deportes", Bein Sport  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40971
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84ZytvL.png" group-title="Deportes", Win Sport  
+ /WINSPORT.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84ZytvL.png" group-title="Deportes", Win Sport Plus  
+ /WINSPORTPLUS.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vw05dXK.jpg" group-title="Deportes", DIRECTV SPORT  
+ /DIRECTV_SPORT.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vw05dXK.jpg" group-title="Deportes", DIRECTV SPORT 2  
+ /DIRECTV_SPORT2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vw05dXK.jpg" group-title="Deportes", DIRECTV SPORT PLUS  
+ /DIRECTV_SPORTPLUS.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes", Fox Sport  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41461
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes", Fox Sport 2 
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41007
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes", Fox Sport 3   
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40976
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q9eV0bt.png" group-title="Deportes", ESPN Deportes  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41023
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes", ESPN 
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41010
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes", ESPN 2  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41009
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes", ESPN 3  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41008
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes", ESPN EXTRA 
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41469
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a70GlGB.jpg" group-title="Deportes", CLARO SPORT  
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41011
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a70GlGB.jpg" group-title="Deportes", CLARO SPORT 2  
+ 2/CLAROSPORT2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mptxVUO.png" group-title="Deportes", TUDN   
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40968
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qyrzMjg.jpg" group-title="Deportes", GOLF TV  
+ 2/GOLFTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FjWnkUZ.png" group-title="Deportes", GARAGE TV  
+ 2/GARAGETV.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/NBC_Sports_logo_2012.png" group-title="Deportes",NBC Sports
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41021
+#EXTINF:-1 tvg-logo="https://www.harrowtimes.co.uk/resources/images/11423683.png?display=1&htype=0&type=responsive-gallery" group-title="Deportes",Sky Sport
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41055
+#EXTINF:-1 tvg-logo="https://phantom-marca.unidadeditorial.es/0bfa2c5205ab3e0b2eb04bd9ad503d44/resize/1320/f/jpg/assets/multimedia/imagenes/2021/06/25/16246383834735.png" group-title="Deportes",Formula 1
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41056
+#EXTINF:-1 tvg-logo="https://cdn.elnacional.com/wp-content/uploads/2019/11/NBA-TV-StarSat.jpg" group-title="Deportes",NBA
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41464
+#EXTINF:-1 tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="Deportes",REALMADRID
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41466
+
