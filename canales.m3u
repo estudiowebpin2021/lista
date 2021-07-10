@@ -172,11 +172,11 @@ http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41028
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jD15gnL.jpg" group-title="Musica", VH1 CLASSIC  
 http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41030
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjnOlda.png" group-title="Deportes", Fox Sport Premium  
- /FOXSPORTSPREMIUM.m3u8
+ https://content-asae1-up-1.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343/e.m3u8?exp=1625952061&ct=c&cid=e450f6b7275b4946afa72bfc4beb6343&expand=drmOff&nielsen=1&iph=3f1fbbfa759e208820806d7c012c714e5ffdcc23bc515d46cbbe102e3dd6385e&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=2ed3ab3e4d349fcf065d19827240f01f7adcbc546bc820a67c0458bfa7561496&pbs=c3b0fc0a4634437f80fe1ab664aa30b2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sQgcpZY.png" group-title="Deportes", TNT SPORT  
- 2/TNTSPORTS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6VFa7F6.png" group-title="Deportes", Estadio TNT Sports  
- /TNTSPORTS.m3u8
+ https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/index_720_av-p.m3u8?sd=10&rebase=on&id=AgC6ehIRqjPxl4sN6mA6logh2O6kIfhPtiJbGuoWtx1s50pA46g7mq2r3R+StfNhbb89kOpExsv%2fKA%3d%3d&hdntl=exp=1625973227~acl=%2f*~data=hdntl~hmac=c6359da8c65ecb15f9145570e8f15efb46ed77030b8a71a614f83ac0da2c89d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6VFa7F6.png" group-title="Deportes", TYC Sports
+ https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ci3KvrE.png" group-title="Deportes", Bein Sport  
 http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40971
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84ZytvL.png" group-title="Deportes", Win Sport  
