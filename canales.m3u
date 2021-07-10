@@ -3,291 +3,219 @@
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 #EXTINF:-1 tvg-id=tvg-name="Canal 3 Rosario" tvg-logo="https://lh3.googleusercontent.com/-bQQ-LJtusqs/Xzgfk782ZiI/AAAAAAAA4XA/H40-oyzIZ_I8KqznT-hA1UwJW9EKjicqgCK8BGAsYHg/s0/2020-08-15.png"group-title="NOTICIAS", Canal 3 Rosario
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uQFUby8.png" group-title="NOTICIAS", 26 
-https://tv.teleclub.xyz/live/EXTERNA_26TV_ARG.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VZH3c3O.png" group-title="NOTICIAS", El nueve  
-https://tv.teleclub.xyz/live/club2/ELNUEVE.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="NOTICIAS", Telefe  
-https://tv.teleclub.xyz/live/club2/TELEFE.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uYOLwOj.png" group-title="NOTICIAS", El trece  
-https://tv.teleclub.xyz/live/club2/ELTRECE.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4Y9uawT.png" group-title="NOTICIAS  ", CNN en Espanol  
-https://tv.teleclub.xyz/live/club/CNNESPANOL.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qv3P4pm.png" group-title="NOTICIAS  ", RT en Español  
-https://tv.teleclub.xyz/live/club/RT_ESPANOL.m3u8  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zWlThB9.png" group-title="NOTICIAS  ", El Trece Internacional  
-https://tv.teleclub.xyz/live/club3/ELTRECEINTERNACIONAL.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mR7mxPY.png" group-title="NOTICIAS  ", TV Publica Argentina  
-https://tv.teleclub.xyz/live/club3/TVPUBLICARGENTINA.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/55x9NTr.jpg" group-title="NOTICIAS  ", Telemundo  
-https://tv.teleclub.xyz/live/club2/TELEMUNDO.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ojP9uxU.png" group-title="NOTICIAS  ", America TV  
-https://tv.teleclub.xyz/live/club3/AMERICATV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil  ", Cartoon Network  
-https://tv.teleclub.xyz/live/club2/CARTOON.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil  ", Disney Channel  
-https://tv.teleclub.xyz/live/club2/DISNEY.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NLNivxd.jpg" group-title="Infantil  ", Disney XD  
-https://tv.teleclub.xyz/live/club2/DISNEYXD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil  ", Disney Jr  
-https://tv.teleclub.xyz/live/club2/DISNEYJR.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bDD2PT7.jpg" group-title="Infantil  ", NATGEO Kids  
-https://tv.teleclub.xyz/live/club2/NATGEOKIDS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil  ", NICK  
-https://tv.teleclub.xyz/live/club2/NICK.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil  ", TEEN NICK  
-https://tv.teleclub.xyz/live/club2/TEENNICK.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil  ", NICK MUSIC  
-https://tv.teleclub.xyz/live/club2/NICKMUSIC.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Infantil  ", NICK JR  
-https://tv.teleclub.xyz/live/club2/NICKJR.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n3eZIO3.png" group-title="Infantil  ", BabyTV  
-https://tv.teleclub.xyz/live/club2/BABYTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/brvWB3u.png" group-title="Infantil  ", Discovery Kids  
-https://tv.teleclub.xyz/live/club2/DKIDS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/igKxn5E.jpg" group-title="Infantil  ", Tooncast  
-https://tv.teleclub.xyz/live/club2/TOONCAST.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil  ", Disney Channel  
-https://tv.teleclub.xyz/live/club3/DISNEYCHANNEL.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil  ", Disney Jr  
-https://tv.teleclub.xyz/live/club3/DISNEYJUNIOR.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NLNivxd.jpg" group-title="Infantil  ", Disney XD  
-https://tv.teleclub.xyz/live/club3/DISNEYXD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bDD2PT7.jpg" group-title="Infantil  ", NATGEO Kids  
-https://tv.teleclub.xyz/live/club3/NATGEOKIDS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iiw3ibE.png" group-title="MUNDO  ", Lifetime  
-https://tv.teleclub.xyz/live/club2/LIFETIME.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EaWNj3F.jpg" group-title="MUNDO  ", Hola!  
-https://tv.teleclub.xyz/live/club2/HOLATV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/64NEN8V.png" group-title="MUNDO  ", Tlnovelas  
-https://tv.teleclub.xyz/live/club2/TLNOVELAS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0jYyq4K.jpg" group-title="MUNDO  ", Caracol TV  
-https://tv.teleclub.xyz/live/club2/CARACOLTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4EQM99H.jpg" group-title="MUNDO  ", A3 Series  
-https://tv.teleclub.xyz/live/club2/A3SERIES.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fISPUww.jpg" group-title="MUNDO  ", Antena 3  
-https://tv.teleclub.xyz/live/club2/A3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pMWxBGL.png" group-title="MUNDO  ", TruTV  
-https://tv.teleclub.xyz/live/club2/TRUTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DaTHMyP.png" group-title="MUNDO  ", Pasiones  
-https://tv.teleclub.xyz/live/club3/PASIONES.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0mWsJfs.png" group-title="MUNDO  ", Univision  
-https://tv.teleclub.xyz/live/club3/UNIVISION.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1WgmrLn.png" group-title="COCINA  ", Glitz  
-https://tv.teleclub.xyz/live/club2/GLITZ.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QzvL6Nf.png" group-title="COCINA  ", El Gourmet  
-https://tv.teleclub.xyz/live/club3/GOURMET.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pTPpWJi.jpg" group-title="Cultura  ", Animal Planet  
-https://tv.teleclub.xyz/live/club2/ANIMALPLANET.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="Cultura  ", Discovery Channel  
-https://tv.teleclub.xyz/live/club2/DISCOVERY.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HWv6NHE.jpg" group-title="Cultura  ", Discovery Turbo  
-https://tv.teleclub.xyz/live/club2/DTURBO.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n8yegix.jpg" group-title="Cultura  ", Discovery World  
-https://tv.teleclub.xyz/live/club2/DWORLD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dCIf15Q.jpg" group-title="Cultura  ", Discovery Theater  
-https://tv.teleclub.xyz/live/club2/DTHEATER.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MyPyuM2.jpg" group-title="Cultura  ", Discovery Sciences  
-https://tv.teleclub.xyz/live/club2/DSCIENCES.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OO9PaGb.jpg" group-title="Cultura  ", Discovery H&H  
-https://tv.teleclub.xyz/live/club2/DHYH.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zp8RIL3.jpg" group-title="Cultura  ", Investigation Discovery  
-https://tv.teleclub.xyz/live/club2/ID.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XW8CuxK.jpg" group-title="Cultura  ", TLC  
-https://tv.teleclub.xyz/live/club2/TLC.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J897iGL.jpg" group-title="Cultura  ", History Channel  
-https://tv.teleclub.xyz/live/club2/HISTORY.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ypR4tvy.jpg" group-title="Cultura  ", History 2  
-https://tv.teleclub.xyz/live/club2/H2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dq6jLKm.jpg" group-title="Cultura  ", NATGEO  
-https://tv.teleclub.xyz/live/club2/NATGEO.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YFDNnoK.jpg" group-title="Cultura  ", NATGEO Wild  
-https://tv.teleclub.xyz/live/club2/NATGEOWILD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Vaq92j.jpg" group-title="Cultura  ", A&E  
-https://tv.teleclub.xyz/live/club2/AYE.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CEJRI4O.jpg" group-title="Cultura  ", ComedyCentral  
-https://tv.teleclub.xyz/live/club2/COMEDYCENTRAL.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eHhcsEN.png" group-title="Entretenimiento  ", Star Channel  
-https://cdn.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cy89pWC.png" group-title="Entretenimiento  ", Star Life  
-https://tv.teleclub.xyz/live/club/FOXLIFE.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MshuPCU.png" group-title="Entretenimiento  ", Star Action  
-https://tv.teleclub.xyz/live/club/FOXACTION.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7kRGbE6.png" group-title="Entretenimiento  ", Star Cinema  
-https://tv.teleclub.xyz/live/club/FOXCINEMA.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeLj0u.png" group-title="Entretenimiento  ", Star Comedy  
-https://tv.teleclub.xyz/live/club/FOXCOMEDY.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dvggMbn.png" group-title="Entretenimiento  ", Star Classics  
-https://tv.teleclub.xyz/live/club/FOXCLASSIC.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5eYXAxv.png" group-title="Entretenimiento  ", Star Fun  
-https://tv.teleclub.xyz/live/club/FOXFAMILY.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W8qL6rh.png" group-title="Entretenimiento  ", Star Series  
-https://tv.teleclub.xyz/live/club/FOXSERIES.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ydSaYNJ.png" group-title="Entretenimiento  ", Star Hits  
-https://tv.teleclub.xyz/live/club/FOXMOVIES.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="Entretenimiento  ", HBO  
-https://tv.teleclub.xyz/live/club/HBO.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg" group-title="Entretenimiento  ", HBO2  
-https://tv.teleclub.xyz/live/club/HBO2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k9ctQko.jpg" group-title="Entretenimiento  ", HBO PLUS  
-https://tv.teleclub.xyz/live/club/HBOPLUS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KQSKMwy.jpg" group-title="Entretenimiento  ", HBO FAMILY  
-https://tv.teleclub.xyz/live/club/HBOFAMILY.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sVEsqdE.jpg" group-title="Entretenimiento  ", HBO SIGNATURE  
-https://tv.teleclub.xyz/live/club/HBOSIGNATURE.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UWB6lC9.jpg" group-title="Entretenimiento  ", HBO MUNDI  
-https://tv.teleclub.xyz/live/club/HBOMUNDI.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JeWg4u9.jpg" group-title="Entretenimiento  ", HBO POP  
-https://tv.teleclub.xyz/live/club/HBOPOP.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R6DVZ2A.jpg" group-title="Entretenimiento  ", HBO XTREME  
-https://tv.teleclub.xyz/live/club/HBOXTREME.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EomyGGs.jpg" group-title="Entretenimiento  ", AMC  
-https://tv.teleclub.xyz/live/club/AMC.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Db6x442.jpg" group-title="Entretenimiento  ", Warner TV  
-https://tv.teleclub.xyz/live/club/WARNER.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="Entretenimiento  ", Universal TV  
-https://tv.teleclub.xyz/live/club/UNIVERSAL.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="Entretenimiento  ", FX  
-https://tv.teleclub.xyz/live/club/FX.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XPgR9ky.jpg" group-title="Entretenimiento  ", FXM  
-https://tv.teleclub.xyz/live/club/FXM.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OdR3aff.jpg" group-title="Entretenimiento  ", AXN  
-https://tv.teleclub.xyz/live/club/AXN.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="Entretenimiento  ", Sony  
-https://tv.teleclub.xyz/live/club/SONY.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dAQL5tZ.jpg" group-title="Entretenimiento  ", TNT  
-https://tv.teleclub.xyz/live/club/TNT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="Entretenimiento  ", TNT Series  
-https://tv.teleclub.xyz/live/club/TNTSERIES.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Entretenimiento  ", Space  
-https://tv.teleclub.xyz/live/club/SPACE.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="Entretenimiento  ", Studio Universal  
-https://tv.teleclub.xyz/live/club/STUDIOUNIVERSAL.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EOS4pd9.jpg" group-title="Entretenimiento  ", TBS  
-https://tv.teleclub.xyz/live/club/TBS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ysV38FI.jpg" group-title="Entretenimiento  ", TCM  
-https://tv.teleclub.xyz/live/club/TCM.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tOWSdVk.jpg" group-title="Entretenimiento  ", Cinecanal  
-https://tv.teleclub.xyz/live/club/CINECANAL.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="Entretenimiento  ", Cinemax  
-https://tv.teleclub.xyz/live/club/CINEMAX.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ybgGUDk.jpg" group-title="Entretenimiento  ", Paramount Channel  
-https://tv.teleclub.xyz/live/club/PARAMOUNT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1eKZASl.png" group-title="Entretenimiento  ", CINELATINO  
-https://tv.teleclub.xyz/live/club/CINELATINO.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento  ", Golden Plus  
-https://tv.teleclub.xyz/live/club/GOLDEN.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento  ", Golden Premier  
-https://tv.teleclub.xyz/live/club/GOLDENPREMIER.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w9FRWYm.png" group-title="Entretenimiento  ", DEPELICULA Plus 
-https://tv.teleclub.xyz/live/club/DEPELICULA.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="Entretenimiento ", 24/7 | Peliculas  
-https://tv.teleclub.xyz/live/club2/247_PELICULAS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ai3ZUG5.jpg" group-title="Musica", Top Music  
-https://tv.teleclub.xyz/live/EXTERNA_TOPMUSIC_247.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" group-title="Musica  ", MTV  
-https://tv.teleclub.xyz/live/club2/MTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" group-title="Musica  ", MTV Live  
-https://tv.teleclub.xyz/live/club2/MTVLIVE.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" group-title="Musica  ", MTV Hits  
-https://tv.teleclub.xyz/live/club2/MTVHITS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jD15gnL.jpg" group-title="Musica  ", VH1 CLASSIC  
-https://tv.teleclub.xyz/live/club2/VH1CLASSIC.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xjnOlda.png" group-title="Deportes  ", Fox Sport Premium  
-https://tv.teleclub.xyz/live/club/FOXSPORTSPREMIUM.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sQgcpZY.png" group-title="Deportes  ", TNT SPORT  
-https://tv.teleclub.xyz/live/club2/TNTSPORTS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6VFa7F6.png" group-title="Deportes  ", Estadio TNT Sports  
-https://tv.teleclub.xyz/live/club/TNTSPORTS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6VFa7F6.png" group-title="Deportes  ", TNT Sports 2  
-https://tv.teleclub.xyz/live/club/TNTSPORTS_2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6VFa7F6.png" group-title="Deportes  ", TNT Sports 3  
-https://tv.teleclub.xyz/live/club/TNTSPORT_3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ci3KvrE.png" group-title="Deportes  ", Bein Sport  
-https://tv.teleclub.xyz/live/club/BEINSPORTN.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/84ZytvL.png" group-title="Deportes  ", Win Sport  
-https://tv.teleclub.xyz/live/club/WINSPORT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/84ZytvL.png" group-title="Deportes  ", Win Sport Plus  
-https://tv.teleclub.xyz/live/club/WINSPORTPLUS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k7yZgTl.jpg" group-title="Deportes  ", GOLTV  
-https://tv.teleclub.xyz/live/club/GOLTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vw05dXK.jpg" group-title="Deportes  ", DIRECTV SPORT  
-https://tv.teleclub.xyz/live/club/DIRECTV_SPORT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vw05dXK.jpg" group-title="Deportes  ", DIRECTV SPORT 2  
-https://tv.teleclub.xyz/live/club/DIRECTV_SPORT2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vw05dXK.jpg" group-title="Deportes  ", DIRECTV SPORT PLUS  
-https://tv.teleclub.xyz/live/club/DIRECTV_SPORTPLUS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes  ", Fox Sport LAT  
-https://tv.teleclub.xyz/live/club/FOXSPORT_LAT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes  ", Fox Sport 2 LAT  
-https://tv.teleclub.xyz/live/club/FOXSPORT2_LAT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes  ", Fox Sport 3 LAT  
-https://tv.teleclub.xyz/live/club/FOXSPORT3_LAT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q9eV0bt.png" group-title="Deportes  ", ESPN Deportes  
-https://tv.teleclub.xyz/live/club/ESPN_Deportes  S.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes  ", ESPN LAT  
-https://tv.teleclub.xyz/live/club/ESPN_LAT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes  ", ESPN 2 LAT  
-https://tv.teleclub.xyz/live/club/ESPN2_LAT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes  ", ESPN 3 LAT  
-https://tv.teleclub.xyz/live/club/ESPN3_LAT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes  ", ESPN EXTRA LAT  
-https://tv.teleclub.xyz/live/club/ESPNPLUS_LAT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lLeq98m.png" group-title="Deportes  ", ECDF : El Canal del Futbol   
-https://tv.teleclub.xyz/live/club2/ECDF.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a70GlGB.jpg" group-title="Deportes  ", CLARO SPORT  
-https://tv.teleclub.xyz/live/club/CLAROSPORT2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a70GlGB.jpg" group-title="Deportes  ", CLARO SPORT 2  
-https://tv.teleclub.xyz/live/club2/CLAROSPORT2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mptxVUO.png" group-title="Deportes  ", TUDN USA  
-https://tv.teleclub.xyz/live/club2/TUDN_USA.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qyrzMjg.jpg" group-title="Deportes  ", GOLF TV  
-https://tv.teleclub.xyz/live/club2/GOLFTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FjWnkUZ.png" group-title="Deportes  ", GARAGE TV  
-https://tv.teleclub.xyz/live/club2/GARAGETV.m3u8
-#EXTINF:-1 tvg-logo="https://teleclub.xyz/img/favicon.png" group-title="XXX", Gay
-https://tv.teleclub.xyz/live/XXX_GAY.m3u8
-#EXTINF:-1 tvg-logo="https://teleclub.xyz/img/favicon.png" group-title="XXX", LiveCams 
-https://tv.teleclub.xyz/live/XXX_LIVECAMS.m3u8
-#EXTINF:-1 tvg-logo="https://teleclub.xyz/img/favicon.png" group-title="XXX", Milf 
-https://tv.teleclub.xyz/live/XXX_MILF.m3u8
-#EXTINF:-1 tvg-logo="https://teleclub.xyz/img/favicon.png" group-title="XXX", BigDick 
-https://tv.teleclub.xyz/live/XXX_BIGDICK.m3u8
-#EXTINF:-1 tvg-logo="https://teleclub.xyz/img/favicon.png" group-title="XXX", Fetish 
-https://tv.teleclub.xyz/live/XXX_FETISH.m3u8
-#EXTINF:-1 tvg-logo="https://teleclub.xyz/img/favicon.png" group-title="XXX", BigTits 
-https://tv.teleclub.xyz/live/XXX_BIGTITS.m3u8
-#EXTINF:-1 tvg-logo="https://teleclub.xyz/img/favicon.png" group-title="XXX", Pornstar 
-https://tv.teleclub.xyz/live/XXX_PORNSTAR.m3u8
-#EXTINF:-1 tvg-logo="https://teleclub.xyz/img/favicon.png" group-title="XXX", BigAss 
-https://tv.teleclub.xyz/live/XXX_BIGASS.m3u8
-#EXTINF:-1 tvg-logo="https://teleclub.xyz/img/favicon.png" group-title="XXX", Interracial 
-https://tv.teleclub.xyz/live/XXX_INTERRACIAL.m3u8
-#EXTINF:-1 tvg-logo="https://teleclub.xyz/img/favicon.png" group-title="XXX", Latina 
-https://tv.teleclub.xyz/live/XXX_LATINA.m3u8
-#EXTINF:-1 tvg-logo="https://teleclub.xyz/img/favicon.png" group-title="XXX", POV 
-https://tv.teleclub.xyz/live/XXX_POV.m3u8
-#EXTINF:-1 tvg-logo="https://teleclub.xyz/img/favicon.png" group-title="XXX", Blowjob 
-https://tv.teleclub.xyz/live/XXX_BLOWJOB.m3u8
-#EXTINF:-1 tvg-logo="https://teleclub.xyz/img/favicon.png" group-title="XXX", Teen 
-https://tv.teleclub.xyz/live/XXX_TEEN.m3u8
-#EXTINF:-1 tvg-logo="https://teleclub.xyz/img/favicon.png" group-title="XXX", Hardcore 
-https://tv.teleclub.xyz/live/XXX_HARDCORE.m3u8
-#EXTINF:-1 tvg-logo="https://teleclub.xyz/img/favicon.png" group-title="XXX", Cuckold
-https://tv.teleclub.xyz/live/XXX_CUCKOLD.m3u8
-#EXTINF:-1 tvg-logo="https://teleclub.xyz/img/favicon.png" group-title="XXX", Threesome 
-https://tv.teleclub.xyz/live/XXX_THREESOME.m3u8
-#EXTINF:-1 tvg-logo="https://teleclub.xyz/img/favicon.png" group-title="XXX", Russian 
-https://tv.teleclub.xyz/live/XXX_RUSSIAN.m3u8
-#EXTINF:-1 tvg-logo="https://teleclub.xyz/img/favicon.png" group-title="XXX", Lesbian 
-https://tv.teleclub.xyz/live/XXX_LESBIAN.m3u8
-#EXTINF:-1 tvg-logo="https://teleclub.xyz/img/favicon.png" group-title="XXX", Rought 
-https://tv.teleclub.xyz/live/XXX_ROUGHT.m3u8
-#EXTINF:-1 tvg-logo="https://teleclub.xyz/img/favicon.png" group-title="XXX", Gangbang 
-https://tv.teleclub.xyz/live/XXX_GANGBANG.m3u8
-#EXTINF:-1 tvg-logo="https://teleclub.xyz/img/favicon.png" group-title="XXX", Anal
-https://tv.teleclub.xyz/live/XXX_ANAL.m3u8
-#EXTINF:-1 tvg-logo="https://teleclub.xyz/img/favicon.png" group-title="XXX", Compilation 
-https://tv.teleclub.xyz/live/XXX_COMPILATION.m3u8
-#EXTINF:-1 tvg-logo="https://teleclub.xyz/img/favicon.png" group-title="XXX", Brunette 
-https://tv.teleclub.xyz/live/XXX_BRUNETTE.m3u8
+#EXTINF:-1, LOCOMOTION
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1, Star Channel
+https://edge1.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8
+#EXTINF:-1,DEPORTES: TUDN MEXICO
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40968
+#EXTINF:-1,BEIN ESPORT SD
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40971
+#EXTINF:-1,CartoonNetwork
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40972
+#EXTINF:-1,FoxSports3 SD
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40976
+#EXTINF:-1,Estrella TV
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40977
+#EXTINF:-1,FoxSport1 SD
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40978
+#EXTINF:-1,HBO SD
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40979
+#EXTINF:-1,UNIVISION SD
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40980
+#EXTINF:-1,Canal FOX Mexico SD
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40981
+#EXTINF:-1,FX Latin SD
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40982
+#EXTINF:-1,SD: A&E LATINO
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40983
+#EXTINF:-1,SD: FOX_LIFE
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40984
+#EXTINF:-1,SD: TBS
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40985
+#EXTINF:-1,SD: SYFY
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40986
+#EXTINF:-1,SD: AXN
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40988
+#EXTINF:-1,SD: UNIVERSAL
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40989
+#EXTINF:-1,SD: Warner
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40990
+#EXTINF:-1,SD: SONY
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40991
+#EXTINF:-1,SD: STUDIO UNIVERSAL
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40992
+#EXTINF:-1,SD: TNT SERIES
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40993
+#EXTINF:-1,SD: E!
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40994
+#EXTINF:-1,SD: COMEDY CENTRAL
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40995
+#EXTINF:-1,SD: HISTORY CHANNEL
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40996
+#EXTINF:-1,SD: NATIONAL GEOGRAPHIC
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40997
+#EXTINF:-1,SD: DISCOVERY CHANNEL
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40998
+#EXTINF:-1,SD: ANIMAL PLANET
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41000
+#EXTINF:-1,SD: NICK JR
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41001
+#EXTINF:-1,SD: DISCOVERY KIDS
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41002
+#EXTINF:-1,SD: DISNEY JUNIOR
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41003
+#EXTINF:-1,SD: NICKELODEON
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41004
+#EXTINF:-1,SD: DISNEY XD
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41005
+#EXTINF:-1,SD: DISNEY CHANNEL
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41006
+#EXTINF:-1,SD Fox Sports 2
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41007
+#EXTINF:-1,SD: ESPN 3
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41008
+#EXTINF:-1,SD: ESPN 2
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41009
+#EXTINF:-1,SD: ESPN
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41010
+#EXTINF:-1,SD: CLARO SPORT
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41011
+#EXTINF:-1,SD: HolaTv
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41012
+#EXTINF:-1,SD: TNT
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41014
+#EXTINF:-1,SD: HBO2
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41015
+#EXTINF:-1,SD: HBO Family
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41016
+#EXTINF:-1,SD: FOX FAMILY
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41017
+#EXTINF:-1,SD: MAX PRIME
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41018
+#EXTINF:-1,SD: BabyTvLAT America
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41019
+#EXTINF:-1,BOORMERANG MEXICO
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41020
+#EXTINF:-1,SD: NBC SPORT
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41021
+#EXTINF:-1,SD: NatGeoKids
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41022
+#EXTINF:-1,ESPN DEPORTES
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41023
+#EXTINF:-1,SD: TUDN
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41024
+#EXTINF:-1,SD: UNICABLE
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41025
+#EXTINF:-1,SD: SPACEMEXICO
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41027
+#EXTINF:-1,SD: MTV HITLIST
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41028
+#EXTINF:-1,SD: MTVLA
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41029
+#EXTINF:-1,SD: VH1
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41030
+#EXTINF:-1,SD: VROLA
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41031
+#EXTINF:-1,SD: TELEMUNDO
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41032
+#EXTINF:-1,SD: FOODN
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41033
+#EXTINF:-1,SD: DISCOVERY FAMILY
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41034
+#EXTINF:-1,SD: BRAVO TV
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41035
+#EXTINF:-1,SD: CNN
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41036
+#EXTINF:-1,SD: ATRES
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41047
+#EXTINF:-1,INGENIO TV
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41054
+#EXTINF:-1,Sky Sport Bundesliga 1 HD
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41055
+#EXTINF:-1,FORMULA 1
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41056
+#EXTINF:-1,ESPA: COMEDY CENTRAL
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41062
+#EXTINF:-1,ESPA: AMC
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41063
+#EXTINF:-1,ESPA: TOROS HD
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41064
+#EXTINF:-1,ESPA: TNT
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41065
+#EXTINF:-1,ESPA: TAQ 6
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41066
+#EXTINF:-1,ESPA: TAQ 5
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41067
+#EXTINF:-1,ESPA: TAQ 4
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41068
+#EXTINF:-1,ESPA: TAQ 3
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41069
+#EXTINF:-1,ESPA: TAQ 2
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41070
+#EXTINF:-1,ESPA: TAQ 1
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41071
+#EXTINF:-1,ESPA: SYFY HD
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41072
+#EXTINF:-1,ESPA: SERIES HD
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41073
+#EXTINF:-1,SD: UNIVERSO
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41452
+#EXTINF:-1,fox sport 1
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41461
+#EXTINF:-1,MLB
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41463
+#EXTINF:-1,NBA
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41464
+#EXTINF:-1,REALMADRID
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41466
+#EXTINF:-1,FOX SPORT 3
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41467
+#EXTINF:-1,ESPN 1
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41468
+#EXTINF:-1,ESPN EXTRA
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41469
+#EXTINF:-1,ESPN 2
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41470
+#EXTINF:-1,Multimedios
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41471
+#EXTINF:-1,DW
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41473
+#EXTINF:-1,CINEMAX
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41475
+#EXTINF:-1,CINECANAL
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41476
+#EXTINF:-1,FXM
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41477
+#EXTINF:-1,CINELATINO
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41478
+#EXTINF:-1,ISAT
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41479
+#EXTINF:-1,PARAMOOUNT
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41480
+#EXTINF:-1,PASIONES
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41482
+#EXTINF:-1,GOLDEN PREMIER
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41484
+#EXTINF:-1,foxFamily
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41488
+#EXTINF:-1,HBO
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41491
+#EXTINF:-1,HBOPlus
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41492
+#EXTINF:-1,LIFETIME
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41495
+#EXTINF:-1,9603UNIMW
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41497
+#EXTINF:-1,GALAVISION
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41498
+#EXTINF:-1,MC
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41500
+#EXTINF:-1,MultiPremiere
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41501
+#EXTINF:-1,TL PR
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41502
+#EXTINF:-1,UNIVISION PR
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41503
+#EXTINF:-1, TELEFE HD 
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
