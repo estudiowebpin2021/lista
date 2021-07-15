@@ -5,179 +5,317 @@ http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQFUby8.png" group-title="NOTICIAS", 26 
 http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VZH3c3O.png" group-title="NOTICIAS", A24 HD
+http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/73561
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VZH3c3O.png" group-title="NOTICIAS", C5N
+http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/73570
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VZH3c3O.png" group-title="NOTICIAS", CRONICA
+http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/73572
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VZH3c3O.png" group-title="NOTICIAS", TN NOTICIAS  
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VZH3c3O.png" group-title="NOTICIAS", El nueve  
-https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI2MDMyMDc5LCJzZXNzaW9uIjoiMTg2LjEyMi4xOC4xNyIsIndoaXRlbGlzdCI6WyIyODAzOjk4MDA6OThjNDo4M2M1Ojc1ZTI6MTEwNzoxZGJjOjczYjYiXX0sInNpZ25hdHVyZSI6IjE2NGYwZTVhMTc2OTI3ZDJiMzBkNWMwM2RhOTJjNjQ1ODZjZTc3NzUifQ%3D%3D
+http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/73547
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="NOTICIAS", Telefe  
-https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/index_1_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1626032193~acl=%2fi%2fappmitelefe_1%40326430%2f*~data=hdntl~hmac=c4dd7b78049f1c4cce6c83041f654c63618e9220ce80eb195ea79f5621a0ff90
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uYOLwOj.png" group-title="NOTICIAS", El trece  
-https://29hm3pwm68.azcdn107.net:8443/hls/s7smi57g.m3u8?s=DvKbtNX2U34bp4eoyJmVUg&e=1626061232
+http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/73555
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Y9uawT.png" group-title="NOTICIAS", CNN en Espanol  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41036
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qv3P4pm.png" group-title="NOTICIAS", RT en Español  
+http://my.streamerstv.com:25461/darien/darien/373                                                                #EXTINF:-1 tvg-logo="https://i.imgur.com/qv3P4pm.png" group-title="NOTICIAS", RT en Español  
 https://rt-esp.secure.footprint.net/1102_4500Kb.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mR7mxPY.png" group-title="NOTICIAS", TV Publica Argentina  
-https://youtu.be/8fC1ePIbJcI
+http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/73584
 #EXTINF:-1 tvg-logo="https://i.imgur.com/55x9NTr.jpg" group-title="NOTICIAS", Telemundo  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41032
+                                                                                          
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ojP9uxU.png" group-title="NOTICIAS", America TV  
- 3/AMERICATV.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COCINA", El Gourmet
+http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/73558 
+
+#EXTINF:-1 tvg-id="120480" tvg-name="Play Television" tvg-logo="https://lh3.googleusercontent.com/-Xz3nAl2_28I/X_HzxCzqnwI/AAAAAAAA82Y/8xZ9Zu243YUdfYEGkUkiO2HF-PP-CDKawCK8BGAsYHg/s0/2021-01-03.jpg", Play Television
+http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="116987" tvg-name="America Tucuman" tvg-logo="https://lh3.googleusercontent.com/-mve9gLUbaUY/X8-dtmcFeII/AAAAAAAA8Cg/_XiDfhK-0REDLgNT85MhEJy2tqMWekIPACK8BGAsYHg/s0/2020-12-08.jpg", America Tucuman
+http://45.6.4.154/americatuc/vivo.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="116524" tvg-name="Azahares Radio multimedia" tvg-logo="https://lh3.googleusercontent.com/-pa7E6wFqHUQ/X8burCyCcNI/AAAAAAAA73k/bxcPtP_8N20ieC7NSjb7LUTvpCRjwj7fwCK8BGAsYHg/s0/2020-12-01.png", Azahares Radio multimedia
+http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="113607" tvg-name="Informacion Periodistica" tvg-logo="https://lh3.googleusercontent.com/-rJV-6hUdyZQ/X4uFfHugYtI/AAAAAAAA6eU/HLiqqhf4_s8RjgL6X3sKBWDBqEGXoR0KgCK8BGAsYHg/s0/2020-10-17.jpg", Informacion Periodistica
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="113070" tvg-name="Solo Stand Up" tvg-logo="https://lh3.googleusercontent.com/-vs6bQTy4Dns/X30TqJ-CdrI/AAAAAAAA6M4/WUtqB3d4eiEp7oHE44DkOhh5V0NNTDMSACK8BGAsYHg/s0/2020-10-06.png", Solo Stand Up
+https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="112578" tvg-name="La Voz de Tucuman" tvg-logo="https://lh3.googleusercontent.com/-bhuFzYt4BMY/X3T-OEDYY1I/AAAAAAAA6FU/6m3id4x5NFQg-XMoRr4230kQk8wP12M6ACK8BGAsYHg/s0/2020-09-30.png", La Voz de Tucuman
+https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="111642" tvg-name="Crossing TV" tvg-logo="https://lh3.googleusercontent.com/-cfF_P57hra8/X3pe12dKpLI/AAAAAAAA6K0/vlkxn0CuVcAn8pzB7GPAhoevDLdHmympwCK8BGAsYHg/s0/2020-10-04.png", Crossing TV
+https://vivo.solumedia.com:19360/crossing/crossing.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="110972" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV Señal 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108931" tvg-name="5R TV Santa Fe" tvg-logo="https://lh3.googleusercontent.com/-D-8xG0f4oBQ/X1TItJKtLkI/AAAAAAAA5TM/gvEpwS7Aw20PVojHp5imn3-Ex5K0Z5ZHwCK8BGAsYHg/s0/2020-09-06.png", 5R TV Santa Fe
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108930" tvg-name="Acequia " tvg-logo="https://lh3.googleusercontent.com/-tRpJwPe-0fE/X1THwnbsKlI/AAAAAAAA5S0/HW9xicJghUgH9iS7kK8UFYOTmGkdZPnTwCK8BGAsYHg/s0/2020-09-06.png", Acequia 
+http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108929" tvg-name="Airevision Digital" tvg-logo="https://lh3.googleusercontent.com/-cHe_gJOw9FU/X1TH7FxqoRI/AAAAAAAA5S4/8FbGDqD8bUc1bJ0MQ7JZu5Yp9ytqMSEXwCK8BGAsYHg/s0/2020-09-06.jpg", Airevision Digital
+http://airevision.ddns.net:1935/live/myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108928" tvg-name="Cadena 103" tvg-logo="https://lh3.googleusercontent.com/-EkNjMszVjTc/X1THnKTiRPI/AAAAAAAA5Sw/nm5mnSJUroIMJ8zM_ifKOqz2NpkhMnVKACK8BGAsYHg/s0/2020-09-06.png", Cadena 103
+http://arcast.net:1935/cadena103/cadena103/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108923" tvg-name="Canal 13 La Rioja" tvg-logo="https://lh3.googleusercontent.com/-f20l_uEV2Mo/X1THHvcl76I/AAAAAAAA5Sk/7MhDM9q__hMsWcD2yyk27u_7VU9k9MA9wCK8BGAsYHg/s0/2020-09-06.jpg", Canal 13 La Rioja
+http://arcast.net:1935/mp/mp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108922" tvg-name="Canal 2 Jujuy" tvg-logo="https://lh3.googleusercontent.com/-lNZ9Cc4kdY0/Xzgf6HFrZDI/AAAAAAAA4XI/I2DRdFu8uao3YAEAUhlLpLOVvco9P7B-wCK8BGAsYHg/s0/2020-08-15.png", Canal 2 Jujuy
+http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108921" tvg-name="Canal 20 Villamaria" tvg-logo="https://lh3.googleusercontent.com/-DCl-5IPenOg/X1THdHqcL4I/AAAAAAAA5Ss/32o_QyaW890GkUkWkbqATUOB9p0uYcjGwCK8BGAsYHg/s0/2020-09-06.jpg", Canal 20 Villamaria
+https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108918" tvg-name="Canal 3 Las Heras" tvg-logo="https://lh3.googleusercontent.com/-Bo1d38m3t7E/X1TI1TCW_HI/AAAAAAAA5TQ/m4ZStqzslPcCdG1y7R1XQ4arveLLpxHjgCK8BGAsYHg/s0/2020-09-06.jpg", Canal 3 Las Heras
+https://5975e06a1f292.streamlock.net:4443/canal3/canal3/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108917" tvg-name="Canal 50 Morteros" tvg-logo="https://lh3.googleusercontent.com/-fVt7_rP4h2M/X4y8RraGetI/AAAAAAAA6iI/L4eUhTTN-7M2TuJ1t5IHJJtA5wjZluVngCK8BGAsYHg/s0/2020-10-18.png", Canal 50 Morteros
+http://168.196.255.130:8080/canal50/vivo.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108916" tvg-name="CANAL 5TV" tvg-logo="https://lh3.googleusercontent.com/--7oMElpb_f8/X1TJDRFf8xI/AAAAAAAA5TU/1vhnTw3RmawstVTEtD4B7N9ymuaK5DqZwCK8BGAsYHg/s0/2020-09-06.jpg", CANAL 5TV
+https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108915" tvg-name="Canal 7 Santiago del estero" tvg-logo="https://lh3.googleusercontent.com/-6FNhD9POEf4/X1TLTtdat0I/AAAAAAAA5UQ/AeQ-IN-bE1cX1De_MImRtAbUXwKwuZ2UQCK8BGAsYHg/s0/2020-09-06.jpg", Canal 7 Santiago del estero
+https://5975e06a1f292.streamlock.net:4443/envivo/castv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108914" tvg-name="Canal 8 Catamarca" tvg-logo="https://lh3.googleusercontent.com/-RxE2ci4tVP0/X1TKGBbhd0I/AAAAAAAA5T0/da4JldeW2CwvYQEEdnRQ9leR5E7M8PPXQCK8BGAsYHg/s0/2020-09-06.jpg", Canal 8 Catamarca
+https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108911" tvg-name="Ciudad TV" tvg-logo="https://lh3.googleusercontent.com/-xpM6zPNOueI/X1TJk6tTtcI/AAAAAAAA5Tk/yDHQTroLl4kKkYaPT-7umsQVP_uaARPMACK8BGAsYHg/s0/2020-09-06.jpg", Ciudad TV
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108908" tvg-name="CPE TV" tvg-logo="https://lh3.googleusercontent.com/-9GTHHXgvOTw/X1TK1QfMEbI/AAAAAAAA5UE/4ulTcshU6Q8PZxoBzNKfDZvmIXleTCnwwCK8BGAsYHg/s0/2020-09-06.jpg", CPE TV
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108905" tvg-name="Fenix" tvg-logo="https://lh3.googleusercontent.com/-fhoBObfmdBw/X1TJdJ96f9I/AAAAAAAA5Tg/3qjeTFvwEsYxbbbFQ8gxPJv-bI-MpVefwCK8BGAsYHg/s0/2020-09-06.jpg", Fenix
+https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108689" tvg-name="Litus TV" tvg-logo="https://lh3.googleusercontent.com/-q7-kJQtvOso/X1TK-HnauAI/AAAAAAAA5UI/AdF8_AvliswDIISemCqMoVi_e94C4ZrjwCK8BGAsYHg/s0/2020-09-06.png", Litus TV
+https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108687" tvg-name="Power" tvg-logo="https://lh3.googleusercontent.com/-OK87fh0FDss/X1TJ_IQLsnI/AAAAAAAA5Tw/Kqs7XCSrP1caCJnMnM3nrIPhHV02XZMzQCK8BGAsYHg/s0/2020-09-06.png", Power
+https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108686" tvg-name="T5 SATELITAL" tvg-logo="https://lh3.googleusercontent.com/-G1nwjyQoAx4/X0J_qYv5QEI/AAAAAAAA43c/Pl4yTVxgIGIDg5_axk58XwMP15X_PEi_ACK8BGAsYHg/s0/2020-08-23.png", T5 SATELITAL
+http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108679" tvg-name="UNIRIO" tvg-logo="https://lh3.googleusercontent.com/-SGxVbm9A4_I/X1TL8nZWUAI/AAAAAAAA5Ug/qgSnKyGCelYvrOtoaaMEO2DsDmztrpkdQCK8BGAsYHg/s0/2020-09-06.png", UNIRIO
+https://5f700d5b2c46f.streamlock.net:443/uniriotv/uniriotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108678" tvg-name="Uni Teve" tvg-logo="https://lh3.googleusercontent.com/--AAhhuRqvN8/X4y9NE0LJXI/AAAAAAAA6iY/YoguEK_wmH0ax34yOvVR2eSBGS7gMoRJgCK8BGAsYHg/s0/2020-10-18.png", Uni Teve
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80278" tvg-name="5TV" tvg-logo="https://lh3.googleusercontent.com/-CJRkMoy5oyo/XjtJ68jQGdI/AAAAAAAAvrU/Ne82ABVOrlAcpwkEeXNP64zTND_8D2h5QCK8BGAsYHg/s0/2020-02-05.png", 5TV
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="100576" tvg-name="9Link" tvg-logo="https://lh3.googleusercontent.com/-WMz7hrzKxR0/Xx4D9d8qm2I/AAAAAAAA3gs/EvkCEvSZ9FAmPtwA7Xx7j6KzsEvNndm3wCK8BGAsYHg/s0/2020-07-26.png", 9Link
+http://www.coninfo.net:1935/9linklive/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80277" tvg-name="Argentinisima Satelital" tvg-logo="https://lh3.googleusercontent.com/-J9YzUdbdH_A/XjtFGLCyIGI/AAAAAAAAvpg/KQIBzXLKRgADtpsPuf83H43jYfFeMNT4gCK8BGAsYHg/s0/2020-02-05.png", Argentinisima Satelital
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80660" tvg-name="Canal 2 Mar del Plata" tvg-logo="https://lh3.googleusercontent.com/-JtAR5L5DJTM/Xx4FT5BIoII/AAAAAAAA3hI/MrIvjOkijt0tl7brflyUUTS_gBsJiGxOgCK8BGAsYHg/s0/2020-07-26.png", Canal 2 Mar del Plata
+https://streamcasthd.com:19360/canal2mdp/canal2mdp.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80663" tvg-name="Canal 4 Bahia Blanca" tvg-logo="https://lh3.googleusercontent.com/-bfgU_ufKFps/XrYKd9HJC_I/AAAAAAAA0hY/TxCOOPSR-R8fBb8zd9ThamFRUKIRsoFrACK8BGAsYHg/s0/2020-05-08.png", Canal 4 Bahia Blanca
+https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80280" tvg-name="Canal 4 Jujuy" tvg-logo="https://lh3.googleusercontent.com/-mheC_82BX9k/XjtJQGo368I/AAAAAAAAvrE/3PLKryDEU3UT_TEYgef0tCaWxwj2OJtLQCK8BGAsYHg/s0/2020-02-05.png", Canal 4 Jujuy
+http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80281" tvg-name="Canal 4 Posadas" tvg-logo="https://lh3.googleusercontent.com/-8RQ6Xhx3aek/XjtJFnEx_ZI/AAAAAAAAvrA/yM5l4Cz0Q3M6JmvHF4n5rjbEXc7W___XgCK8BGAsYHg/s0/2020-02-05.png", Canal 4 Posadas
+https://589ff3c36f7e8.streamlock.net/canal4/canal4/chunklist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80662" tvg-name="Canal 6 Moreno" tvg-logo="https://lh3.googleusercontent.com/-SlqJrd0GiYk/XjtCBz2FbhI/AAAAAAAAvog/HkkKzNWrEOYiE08Rdlw-mxsDtzpJ_zD8wCK8BGAsYHg/s0/2020-02-05.png", Canal 6 Moreno
+https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="100586" tvg-name="Canal 6 Posadas" tvg-logo="https://lh3.googleusercontent.com/-uYJjXBSPKcQ/XrYLr-JJG2I/AAAAAAAA0hs/wSH1Dy7JWGkic3m4szzF2dIrjTyHOYHuwCK8BGAsYHg/s0/2020-05-08.png", Canal 6 Posadas
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80300" tvg-name="Canal 7 Chubut" tvg-logo="https://lh3.googleusercontent.com/-dcR6LiSEM3o/XjtCwLNAomI/AAAAAAAAvow/p-uUGIkr-7ANc2E8PvDvRJE2lU4OZ3ExgCK8BGAsYHg/s0/2020-02-05.png", Canal 7 Chubut
+http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="100583" tvg-name="Canal 7 Jujuy" tvg-logo="https://lh3.googleusercontent.com/-gU0LdOci1cE/XrYL7uefhAI/AAAAAAAA0h0/N9ww7QKwrrY9kCL4fMrD3mroXZHoYMudACK8BGAsYHg/s0/2020-05-08.png", Canal 7 Jujuy
+https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="100588" tvg-name="Canal 7 Salta" tvg-logo="https://lh3.googleusercontent.com/-KCqAdPir4u0/XrYMI6iIs_I/AAAAAAAA0h4/UaFlSVSv3Foz_7161A3vWWA5kkH4RTZbQCK8BGAsYHg/s0/2020-05-08.png", Canal 7 Salta
+https://589ff3c36f7e8.streamlock.net:443/crespo3/crespo3/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80297" tvg-name="Canal 10" tvg-logo="https://lh3.googleusercontent.com/-1_p-RfF0oIo/XjtDhLIE25I/AAAAAAAAvpE/uzoG77Dzsp8PEzYtGkaBadawaE0ISWlywCK8BGAsYHg/s0/2020-02-05.png", Canal 10
+https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="100569" tvg-name="Canal 10 Mar del Plata" tvg-logo="https://lh3.googleusercontent.com/-f0VOu8Vxwc8/Xx4ETCnOtTI/AAAAAAAA3g8/frInrFqrNk4ohqQaNUQRq2BcedFlMU_IgCK8BGAsYHg/s0/2020-07-26.png", Canal 10 Mar del Plata
+https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80299" tvg-name="Canal 12 Madryn TV" tvg-logo="https://lh3.googleusercontent.com/-NNKwN__O6ow/XjtC-7aspzI/AAAAAAAAvo0/v09wOJBPPlUnV3i75aEZ-ffQbViAKoXJACK8BGAsYHg/s0/2020-02-05.png", Canal 12 Madryn TV
+https://5f700d5b2c46f.streamlock.net:443/madryntv/madryntv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="100591" tvg-name="Canal 13 San Luis" tvg-logo="https://lh3.googleusercontent.com/-k0l597JI_Nw/Xx4DpspmB4I/AAAAAAAA3gk/jb-EnvLp1GchlYJL90z6FLSXJe3ciwNRQCK8BGAsYHg/s0/2020-07-26.png", Canal 13 San Luis
+https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80284" tvg-name="CN 24/7 Neuquen" tvg-logo="https://lh3.googleusercontent.com/-XAHrxHCDM7s/XjtFb5uwTDI/AAAAAAAAvpo/5p94Cjf1Um8P4waIXUAAVfX9T1x-TaeGQCK8BGAsYHg/s0/2020-02-05.png", CN 24/7 Neuquen
+https://panel.dattalive.com:443/6605140/smil:6605140.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45089" tvg-name="Canal 26" tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png", Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="100571" tvg-name="Canal 79 Mar del Plata" tvg-logo="https://lh3.googleusercontent.com/-2lmK8NorVYk/XrYMzuTInHI/AAAAAAAA0iI/vHb7JIABcJwCiHXJP9_HBl904RV7g6hPACK8BGAsYHg/s0/2020-05-08.png", Canal 79 Mar del Plata
+https://5f6e1fe8f2d2e.streamlock.net:443/mardelplata/mardelplata/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="107187" tvg-name="Canal 907 FM Comunicar" tvg-logo="https://lh3.googleusercontent.com/-iVDSiV3mNXI/Xxoun2Z7-xI/AAAAAAAA3PY/hYRBs3H5ifoKv1w8L1qK729jzwo1xU5HgCK8BGAsYHg/s0/2020-07-23.png", Canal 907 FM Comunicar
+https://panel.dattalive.com/canal907/canal907/chunklist_w1205944599.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80661" tvg-name="Canal Cinco Tigre" tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png", Canal Cinco Tigre
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="107163" tvg-name="Canal Coop" tvg-logo="https://lh3.googleusercontent.com/-aeAlzPyDNX8/Xx4DOKMNpHI/AAAAAAAA3gc/iN2_EZ7gS4URvFD9IB5tjQ6uJ_Qd7rPZwCK8BGAsYHg/s0/2020-07-26.png", Canal Coop
+https://panel.dattalive.com:443/8138/8138/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80298" tvg-name="Canal U" tvg-logo="https://lh3.googleusercontent.com/-bhc1ryCQBss/XjtDRMLA6RI/AAAAAAAAvo8/A5WXhRqhV2EdFzBWINyyhUoqFK1eYWJmQCK8BGAsYHg/s0/2020-02-05.png", Canal U
+https://vcp.myplaytv.com:443/canal10srt/smil:canal10srt.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80664" tvg-name="Canal XFN" tvg-logo="https://lh3.googleusercontent.com/-6yBSbBB-AHE/XjtBSO4ZGtI/AAAAAAAAvoQ/_ZYx1XEmyo0wXnwYQDegDsetCUlb9u0FwCK8BGAsYHg/s0/2020-02-05.png", Canal XFN
+https://5f6e1fe8f2d2e.streamlock.net:443/canalxfn/canalxfn/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="98885" tvg-name="Chacra TV" tvg-logo="https://lh3.googleusercontent.com/-pKI6d5kptYI/XnDCiQcHe0I/AAAAAAAAw_Y/pjVT7LGqYmswBIePrX9PeXozB4UncbPEgCK8BGAsYHg/s0/2020-03-17.png", Chacra TV
+https://s8.stweb.tv/chacra/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80296" tvg-name="Chaco TV" tvg-logo="https://lh3.googleusercontent.com/-mgmL8cb_jtc/XjtDrQ3HzaI/AAAAAAAAvpI/tgRhGRWSXnsz9hvxd4oPgM16JpByuhRzwCK8BGAsYHg/s0/2020-02-05.png", Chaco TV
+https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="81559" tvg-name="CL3 Cablevision" tvg-logo="https://lh3.googleusercontent.com/-Dwon9sRZsSY/Xjs6WmRFAaI/AAAAAAAAvnM/Zgcsd4pznrUNtvK8TghlckQw1YcLWnkdwCK8BGAsYHg/s0/2020-02-05.png", CL3 Cablevision
+http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="100589" tvg-name="El 10 TV Salta" tvg-logo="https://lh3.googleusercontent.com/-aNTephSh6X4/XrYOFHKzdnI/AAAAAAAA0iQ/WWl-6gNbEasulDCesXAmo66Z87DObgl5wCK8BGAsYHg/s0/2020-05-08.png", El 10 TV Salta
+https://clientes.videostreaming.ar:19360/openradio2/openradio2.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45084" tvg-name="Garage TV" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png", Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="103920" tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png", Locomotion
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="100598" tvg-name="Metro TV Canal 12 Tucuman" tvg-logo="https://lh3.googleusercontent.com/-Ft5Jyf_b1IM/XrYPmPh3AMI/AAAAAAAA0io/wrYd6ohXsH4M8Jd-uReILaQxfvcXnQF2wCK8BGAsYHg/s0/2020-05-08.png", Metro TV Canal 12 Tucuman
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null&PlaylistM3UCL
+#EXTINF:-1 tvg-id="45085" tvg-name="Multivisión" tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png", Multivisión
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="101464" tvg-name="Net TV" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png", Net TV
+https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="81555" tvg-name="Quatro TV" tvg-logo="https://lh3.googleusercontent.com/-1phsO-ubizU/Xjs7vHKVggI/AAAAAAAAvno/rT7oXAbNr_gKAdV3lKdf9tJjftYLEG9-wCK8BGAsYHg/s0/2020-02-05.png", Quatro TV
+https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80289" tvg-name="RTN" tvg-logo="https://lh3.googleusercontent.com/-E9zOAkKHOaw/XjtG9WkFKEI/AAAAAAAAvqQ/j2nVTLIMsZUsZfVliojEB5JU601yHtKQACK8BGAsYHg/s0/2020-02-05.png", RTN
+http://media.neuquen.gov.ar/rtn/television/chunklist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="107313" tvg-name="Sicardi TV" tvg-logo="https://lh3.googleusercontent.com/-wuYicD0_JRo/Xx4DBSPmdhI/AAAAAAAA3gY/W3or3KbI1oEpwLWFbpcO1uEh2GVbRY1CwCK8BGAsYHg/s0/2020-07-26.png", Sicardi TV
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="81557" tvg-name="TDC TV Santa Fe" tvg-logo="https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8BGAsYHg/s0/2020-02-05.png", TDC TV Santa Fe
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="100570" tvg-name="Telecreativa" tvg-logo="https://lh3.googleusercontent.com/-Gm_Ms3sI_Q4/XrYQujqJHII/AAAAAAAA0iw/dsg5W2kHZPAp1MDPFrwp7rwQ0DO12IdXACK8BGAsYHg/s0/2020-05-08.png", Telecreativa
+https://panel.dattalive.com:443/8012/8012/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="101837" tvg-name="Telediario Televisión" tvg-logo="https://lh3.googleusercontent.com/-Gceq5SpfHb8/XrYRAGJeBUI/AAAAAAAA0i4/OHxya9wtX5kJC06MlqyfpUCl9M2azquDQCK8BGAsYHg/s0/2020-05-08.png", Telediario Televisión
+https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80292" tvg-name="Telemax" tvg-logo="https://lh3.googleusercontent.com/-GggE-B4xtSM/XjtGaEx2_9I/AAAAAAAAvqA/r5bbq1zR7V4HHwTrWskHzdF7ddfuQjA-QCK8BGAsYHg/s0/2020-02-05.png", Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80666" tvg-name="Telpin Canal 2" tvg-logo="https://lh3.googleusercontent.com/-ulhiusmLK5w/XjtA5Bi-zrI/AAAAAAAAvoI/A7OP1Flx4xM4g5VOMH9ZfUz7HrxtW3OMQCK8BGAsYHg/s0/2020-02-05.png", Telpin Canal 2
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80293" tvg-name="Terramia TV" tvg-logo="https://lh3.googleusercontent.com/-jE3Rb32vLEQ/XjtGJpQeqWI/AAAAAAAAvp4/P09Q1wK1oCwNhEhncQUUSJDGFBZzjErCwCK8BGAsYHg/s0/2020-02-05.png", Terramia TV
+https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="100590" tvg-name="Telesol San Juan" tvg-logo="https://lh3.googleusercontent.com/-kqLdYrubS-E/XrYRPU5mXnI/AAAAAAAA0i8/3PSW9Gmz1BQk0Q3Xxa6Kjm5j2bldqpRWwCK8BGAsYHg/s0/2020-05-08.png", Telesol San Juan
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80294" tvg-name="TV Mana" tvg-logo="https://lh3.googleusercontent.com/-se5AOEQaasU/XjtF33CYx1I/AAAAAAAAvpw/CNqrmHenXs4BVEchPPx35lMM5FAFrWeEQCK8BGAsYHg/s0/2020-02-05.png", TV Mana
+http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="100592" tvg-name="TV Publica Fueguina" tvg-logo="https://lh3.googleusercontent.com/-C_wI8P7fPY4/XrYSA1hre4I/AAAAAAAA0jM/fPA9M7hoGeYRd2DAHtOIvQzlFlF0ezrbACK8BGAsYHg/s0/2020-05-08.png", TV Publica Fueguina
+https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80288" tvg-name="Music Top" tvg-logo="https://lh3.googleusercontent.com/-6Em4fzTLMuU/XjtHLf96jvI/AAAAAAAAvqU/q3DfxbUdSiMDRDB1VBh_3hu3WDK_Nr-egCK8BGAsYHg/s0/2020-02-05.png", Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="106792" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="102604" tvg-name="Rewind TV" tvg-logo="https://lh3.googleusercontent.com/-DNyXu-b4s7U/Xw5ewsB00fI/AAAAAAAA21g/BxwNdcI3djYxvx4JKkpiGWruGj2DwFNkgCK8BGAsYHg/s0/2020-07-14.png", Rewind TV
+https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108926" tvg-name="Canal 10 Rio Negro" tvg-logo="https://lh3.googleusercontent.com/-RPgMJ90DCeU/XjtIXwH4L3I/AAAAAAAAvqs/HoaDT_pgUukebIWHY7ndUkZs1fiQerE_ACK8BGAsYHg/s0/2020-02-05.png", Canal 10 Rio Negro
+https://panel.dattalive.com:443/8204/8204/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="100568" tvg-name="Canal 3 Las Flores Digital" tvg-logo="https://lh3.googleusercontent.com/-cVH3KiKr-Fc/X9X-scKRYFI/AAAAAAAA8Kg/lQpaKdHOL9kHc7P9LDH2sdk2CI3bpo9HgCK8BGAsYHg/s0/2020-12-13.jpg", Canal 3 Las Flores Digital
+https://inliveserver.com:1936/8436/8436/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80279" tvg-name="Canal Nueve TV" tvg-logo="https://lh3.googleusercontent.com/-gSWT28neyoI/XjtJg-an6zI/AAAAAAAAvrM/QbdM_yrZ6GcRSpkxyoLkkFI-aJ-yjX3qwCK8BGAsYHg/s0/2020-02-05.png", Canal Nueve TV
+https://live.canalnueve.tv/canal.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="100567" tvg-name="El Eco TV" tvg-logo="https://lh3.googleusercontent.com/-s7Lrg1AhjRA/XrYORW8wrKI/AAAAAAAA0iU/5dZ8Epc-I1Momc6KYwA2rt0AwnwhdVKowCK8BGAsYHg/s0/2020-05-08.png", El Eco TV
+https://5f93e494d5906.streamlock.net:443/elecotv/elecotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109636" tvg-name="UTN TV" tvg-logo="https://lh3.googleusercontent.com/-F8g_zBh0gEA/XziF0Q478uI/AAAAAAAA4dw/ux01XzwGaM44evlijtAFeoZDNZX7k9OEgCK8BGAsYHg/s0/2020-08-15.png", UTN TV
+https://5975e06a1f292.streamlock.net:4443/utntv/utntv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="106258" tvg-name="Urban TV" tvg-logo="https://lh3.googleusercontent.com/-Xx4DcggZ0tw/X48XMFPv4jI/AAAAAAAA6lY/eTAQj1-UnWUbuTMAHTCiwz9SCJoAlGkTACK8BGAsYHg/s0/2020-10-20.png", Urban TV
+https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45090" tvg-name="10 TV" tvg-logo="https://lh3.googleusercontent.com/-r9pTOW2gmVA/XjtE8bqfCBI/AAAAAAAAvpc/E3ROz7ebsbEv7jKDOenNcl2xZkyjdnoawCK8BGAsYHg/s0/2020-02-05.png", 10 TV
+http://streamingvideo.com.ar:1935/10tv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45088" tvg-name="Canal Rural" tvg-logo="https://lh3.googleusercontent.com/-6W3lyz48LJQ/X8__9zMfZDI/AAAAAAAA8Cs/yddCBer685MzMn3-Z4sqv6IouOkY_hdcgCK8BGAsYHg/s0/2020-12-08.jpg", Canal Rural
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/2c15cb09-f111-4b08-b86e-421cbf221fe1_m.jpg" group-title="COCINA", El Gourmet
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3679
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Cartoon Network  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40972
-#EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil", Disney Channel  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41006
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NLNivxd.jpg" group-title="Infantil", Disney XD  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41005
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil", Disney Jr  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41003
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bDD2PT7.jpg" group-title="Infantil", NATGEO Kids  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41022
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil", Nickelodeon  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41004
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Infantil", NICK JR  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41001
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n3eZIO3.png" group-title="Infantil", BabyTV  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41019
-#EXTINF:-1 tvg-logo="https://i.imgur.com/brvWB3u.png" group-title="Infantil", Discovery Kids  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41002
-#EXTINF:-1 tvg-logo="https://cn.i.cdn.ti-platform.com/cnlatam/content/1057/showpage/boomerang/ar/cardposta.jpg" group-title="Infantil", Boomerang
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41020
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f0/be/d6/f0bed6cc9a3e5f519b60278341b32c29.png" group-title="Infantil", Locomotion  
-http://51.222.85.85:81/hls/loco/index.m3u8
+http://my.streamerstv.com:25461/darien/darien/370                                                                #EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil", Disney Channel  
+http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/72550                                                             #EXTINF:-1 tvg-logo="https://i.imgur.com/NLNivxd.jpg" group-title="Infantil", Disney XD  
+http://my.streamerstv.com:25461/darien/darien/2276                                                               #EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil", Disney Jr  
+http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/72551                                                             #EXTINF:-1 tvg-logo="https://i.imgur.com/bDD2PT7.jpg" group-title="Infantil", NATGEO Kids  
+                                                  36909                                                        #EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil", Nickelodeon  
+                                                  36907                                                        #EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Infantil", NICK JR  
+                                                  36908                                                        #EXTINF:-1 tvg-logo="https://i.imgur.com/n3eZIO3.png" group-title="Infantil", BabyTV  
+                                                  50649                                                        #EXTINF:-1 tvg-logo="https://i.imgur.com/brvWB3u.png" group-title="Infantil", Discovery Kids  
+http://my.streamerstv.com:25461/darien/darien/380                                                                #EXTINF:-1 tvg-logo="https://cn.i.cdn.ti-platform.com/cnlatam/content/1057/showpage/boomerang/ar/cardposta.jpg" group-title="Infantil", Boomerang
+                                                  50663                                                        #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f0/be/d6/f0bed6cc9a3e5f519b60278341b32c29.png" group-title="Infantil", Locomotion  
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQbue1WVK5s0ne8sFBVwxf6u7-TbKAdPjK-YCHI8g=s900-c-k-c0x00ffffff-no-rj" group-title="Infantil", Paka Paka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iiw3ibE.png" group-title="MUNDO", Lifetime  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41495
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EaWNj3F.jpg" group-title="MUNDO", Hola!  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41012
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pTPpWJi.jpg" group-title="Cultura", Animal Planet  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41000
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="Cultura", Discovery Channel  
-http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=discoverych&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HWv6NHE.jpg" group-title="Cultura", Discovery Turbo  
-http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=dturbo&f=.m3u8
+                                                  36914                                                        #EXTINF:-1 tvg-logo="https://i.imgur.com/EaWNj3F.jpg" group-title="MUNDO", Hola!  
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/151                                                    #EXTINF:-1 tvg-logo="https://i.imgur.com/pTPpWJi.jpg" group-title="Cultura", Animal Planet  
+http://my.streamerstv.com:25461/darien/darien/361                                                              #EXTINF:-1 tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="Cultura", Discovery Channel  
+http://my.streamerstv.com:25461/darien/darien/376                                                            
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HWv6NHE.jpg" group-title="Cultura", Discovery Turbo 
+                                                  36982
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HWv6NHE.jpg" group-title="Cultura", DISCOVERY CIVILIZATION
+http://my.streamerstv.com:25461/darien/darien/377 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8yegix.jpg" group-title="Cultura", Discovery World  
-http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=dworld&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dCIf15Q.jpg" group-title="Cultura", Discovery Theater  
-http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=dtheater&f=.m3u8  
+                                                  36981                                                        #EXTINF:-1 tvg-logo="https://i.imgur.com/dCIf15Q.jpg" group-title="Cultura", Discovery Theater  
+http://my.streamerstv.com:25461/darien/darien/381                                                             
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MyPyuM2.jpg" group-title="Cultura", Discovery Sciences  
-http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=dciencia&f=.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OO9PaGb.jpg" group-title="Cultura", Discovery H&H  
+                                                  36922                                                        #EXTINF:-1 tvg-logo="https://i.imgur.com/OO9PaGb.jpg" group-title="Cultura", Discovery H&H  
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3677
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zp8RIL3.jpg" group-title="Cultura", Discovery ID 
-http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=id&f=.m3u8 
+http://my.streamerstv.com:25461/darien/darien/379                                                            
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSAhjs-zcOY0kZH9kJ0PW5LwEA_n6x4RVCXeO22sA=s900-c-k-c0x00ffffff-no-rj" group-title="Cultura",Discovery Family
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41034
+                                                                                          
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XW8CuxK.jpg" group-title="Cultura", TLC  
-http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=tlc&f=.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J897iGL.jpg" group-title="Cultura", History Channel  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40996
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/history_channel_c.png" group-title="Cultura", History en Español
+http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/72604                                                        #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/history_channel_c.png" group-title="Cultura", History 
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/116
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/history_channel_c.png" group-title="Cultura", History 1
+http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/72516
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypR4tvy.jpg" group-title="Cultura", History 2  
-http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=h2&f=.m3u8 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dq6jLKm.jpg" group-title="Cultura", NATIONAL GEOGRAPHIC
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40997
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YFDNnoK.jpg" group-title="Cultura", NATGEO Wild  
-http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=natgeowild&f=.m3u8    
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Verisign-dottv-logo.jpg" group-title="Cultura", Nat Geo Mundo
+http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/72587                                                             #EXTINF:-1 tvg-logo="https://i.imgur.com/YFDNnoK.jpg" group-title="Cultura", NATGEO Wild  
+http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/72588                                                             #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Verisign-dottv-logo.jpg" group-title="Cultura", Nat Geo Mundo
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/120
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Vaq92j.jpg" group-title="Cultura", A&E  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40983
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eHhcsEN.png" group-title="Entretenimiento", Star Channel  
+http://my.streamerstv.com:25461/darien/darien/358                                                                #EXTINF:-1 tvg-logo="https://i.imgur.com/eHhcsEN.png" group-title="CINE",Star Channel  
 https://edge1.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eHhcsEN.png" group-title="Entretenimiento", Star Channel 2  
-https://29hm3pwm68.azcdn107.net:8443/hls/0e733j.m3u8?s=_jE1BmFwEOTPOu21ccy0kw&e=1626060369
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eHhcsEN.png" group-title="Entretenimiento", Star Channel 3
-https://29hm3pwm68.azcdn107.net:8443/hls/0e733j.m3u8?s=vcPPpLS61MEk1vtOjxiXJw&e=1626073462
-#EXTINF:-1,tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/3ccccc43-f23b-4e1b-bf6a-2a9b86ddd0e9" group-title="Entretenimiento",Canal FOX star accion
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40981
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cy89pWC.png" group-title="Entretenimiento", Star Life  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40984
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MshuPCU.png" group-title="Entretenimiento", Star Action  
-http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=staraction&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7kRGbE6.png" group-title="Entretenimiento", Star Cinema  
-http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=starcinema&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeLj0u.png" group-title="Entretenimiento", Star Comedy  
-http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=starcomedy&f=.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dvggMbn.png" group-title="Entretenimiento", Star Classics  
-http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=starclassics&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5eYXAxv.png" group-title="Entretenimiento", Star Fun  
-http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=starfun&f=.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W8qL6rh.png" group-title="Entretenimiento", Star Series  
-http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=starseries&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ydSaYNJ.png" group-title="Entretenimiento", Star Hits  
-http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=starhits&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="Entretenimiento", HBO  
-http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=hbo&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/HBO_Latino_logo_%282%29.png" group-title="Entretenimiento", HBO latino
-http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2490
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg" group-title="Entretenimiento", HBO2  
-http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=hbo2&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k9ctQko.jpg" group-title="Entretenimiento", HBO PLUS  
-http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=hboplus&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KQSKMwy.jpg" group-title="Entretenimiento", HBO FAMILY  
-http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=hbofamily&f=.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sVEsqdE.jpg" group-title="Entretenimiento", HBO SIGNATURE  
-http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=hbosignature&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UWB6lC9.jpg" group-title="Entretenimiento", HBO MUNDI  
-https://29hm3pwm68.azcdn107.net:8443/hls/8nviuzdhm5jnu.m3u8?s=Yk6QS8PqF-Rp7nV_HG8Fqw&e=1626069993
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JeWg4u9.jpg" group-title="Entretenimiento", HBO POP  
-http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=hbopop&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R6DVZ2A.jpg" group-title="Entretenimiento", HBO XTREME  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41018
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EomyGGs.jpg" group-title="Entretenimiento", AMC  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41063
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Db6x442.jpg" group-title="Entretenimiento", Warner   
-http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=warner&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="Entretenimiento", Universal   
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40989
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="Entretenimiento", FX  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40982
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XPgR9ky.jpg" group-title="Entretenimiento", FXM  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41477
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OdR3aff.jpg" group-title="Entretenimiento", AXN  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40988
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="Entretenimiento", Sony  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40991
-#EXTINF:-1,tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="Entretenimiento", SYFY
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40986
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dAQL5tZ.jpg" group-title="Entretenimiento", TNT  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41014
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="Entretenimiento", TNT Series  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40993
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Entretenimiento", Space  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41027
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="Entretenimiento", Studio Universal  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40992
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EOS4pd9.jpg" group-title="Entretenimiento", TBS  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40985
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ysV38FI.jpg" group-title="Entretenimiento", TCM  
-http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=tcm&f=.m3u8 
-#EXTINF:-1 tvg-logo="https://d2p1nnn035jt22.cloudfront.net/spw_video/teasers/cine_02-web.jpg" group-title="Entretenimiento", LA: Cinelatino
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eHhcsEN.png" group-title="CINE",Star Channel 1
+http://my.streamerstv.com:25461/darien/darien/396
+#EXTINF:-1,tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/3ccccc43-f23b-4e1b-bf6a-2a9b86ddd0e9" group-title="CINE",Canal FOX star accion
+http://my.streamerstv.com:25461/darien/darien/397                                                                #EXTINF:-1 tvg-logo="https://i.imgur.com/cy89pWC.png" group-title="CINE",Star Life  
+http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/72570                                                             #EXTINF:-1 tvg-logo="https://i.imgur.com/MshuPCU.png" group-title="CINE",Star Action  
+http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/72619                                                           
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7kRGbE6.png" group-title="CINE",Star Cinema  
+http://my.streamerstv.com:25461/darien/darien/398     
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7kRGbE6.png" group-title="CINE",Fox Movies FHD
+http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/72504                                                      
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeLj0u.png" group-title="CINE",Star Comedy  
+                                                            
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dvggMbn.png" group-title="CINE",Star Classics  
+http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/72569                                                            
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5eYXAxv.png" group-title="CINE",Star Fun  
+                                                           
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W8qL6rh.png" group-title="CINE",Star Series  
+http://my.streamerstv.com:25461/darien/darien/399                                                           
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ydSaYNJ.png" group-title="CINE",Star Hits  
+                                                  36974                                                        #EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="CINE",HBO  
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2490                                                   #EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg" group-title="CINE",HBO2  
+http://my.streamerstv.com:25461/darien/darien/413                                                          
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k9ctQko.jpg" group-title="CINE",HBO PLUS  
+                                                  36963                                                        #EXTINF:-1 tvg-logo="https://i.imgur.com/KQSKMwy.jpg" group-title="CINE",HBO FAMILY  
+http://my.streamerstv.com:25461/darien/darien/414                                                            
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sVEsqdE.jpg" group-title="CINE",HBO SIGNATURE  
+                                                           
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UWB6lC9.jpg" group-title="CINE",HBO MUNDI  
+                                                  36913
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JeWg4u9.jpg" group-title="CINE",HBO POP  
+                                                  36911                                                        #EXTINF:-1 tvg-logo="https://i.imgur.com/R6DVZ2A.jpg" group-title="CINE",HBO XTREME  
+                                                  36912                                                        #EXTINF:-1 tvg-logo="https://i.imgur.com/EomyGGs.jpg" group-title="CINE",AMC  
+http://my.streamerstv.com:25461/darien/darien/360                                                                #EXTINF:-1 tvg-logo="https://i.imgur.com/Db6x442.jpg" group-title="CINE",Warner   
+                                                  36930                                                        #EXTINF:-1 tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="CINE",Universal   
+                                                  36932                                                        #EXTINF:-1 tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="CINE",FX  
+http://my.streamerstv.com:25461/darien/darien/403                                                                #EXTINF:-1 tvg-logo="https://i.imgur.com/XPgR9ky.jpg" group-title="CINE",FXM  
+http://my.streamerstv.com:25461/darien/darien/404                                                               #EXTINF:-1 tvg-logo="https://i.imgur.com/OdR3aff.jpg" group-title="CINE",AXN 
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3673                                                   #EXTINF:-1 tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="CINE",Sony  
+http://my.streamerstv.com:25461/darien/darien/433                                                                #EXTINF:-1,tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="CINE",SYFY
+http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/72597                                                             #EXTINF:-1 tvg-logo="https://i.imgur.com/dAQL5tZ.jpg" group-title="CINE",TNT  
+http://my.streamerstv.com:25461/darien/darien/455                                                                #EXTINF:-1 tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="CINE",TNT Series  
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3672                                                   #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="CINE",Space  
+http://my.streamerstv.com:25461/darien/darien/434                                                                #EXTINF:-1 tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="CINE",Studio Universal  
+http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/72595                                                             #EXTINF:-1 tvg-logo="https://i.imgur.com/EOS4pd9.jpg" group-title="CINE",TBS  
+http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/72598                                                        #EXTINF:-1 tvg-logo="https://i.imgur.com/ysV38FI.jpg" group-title="CINE",TCM  
+http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/72599                                                          
+#EXTINF:-1 tvg-logo="https://d2p1nnn035jt22.cloudfront.net/spw_video/teasers/cine_02-web.jpg" group-title="CINE",                                  LA: Cine latino
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/107
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxOYlX4UvBj85nCdISeddjeIoDxRI_Ys9g48GkAO3qEPLatpsubVtvtVx6tFBDNlKB0DU&usqp=CAU" group-title="Entretenimiento",Xtrema Tv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxOYlX4UvBj85nCdISeddjeIoDxRI_Ys9g48GkAO3qEPLatpsubVtvtVx6tFBDNlKB0DU&usqp=CAU" group-title="CINE",Xtrema Tv
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tOWSdVk.jpg" group-title="Entretenimiento", Cinecanal  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41476
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="Entretenimiento", Cinemax  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41475
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ybgGUDk.jpg" group-title="Entretenimiento", Paramount Channel  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1eKZASl.png" group-title="Entretenimiento", COMEDY CENTRAL
-http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=comedy&f=.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden Edge 
-http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=goldenedge&f=.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden Plus
-http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=goldenplus&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden Premier  
-http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=goldenp&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.cdn.turner.com/tntla/images/portal/fixed/cards/isat-redes.jpg" group-title="Entretenimiento", ISAT
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41479
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/c1/a4/6ec1a4fa0de54eab32777165fdd8b8bc.jpg" group-title="Entretenimiento",E!
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40994
-#EXTINF:-1 tvg-id="106792" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png"group-title="Entretenimiento", Retro Plus TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tOWSdVk.jpg" group-title="CINE",Cinecanal  
+http://my.streamerstv.com:25461/darien/darien/371                                                                #EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="CINE",Cinemax  
+http://my.streamerstv.com:25461/darien/darien/372                                                                #EXTINF:-1 tvg-logo="https://i.imgur.com/ybgGUDk.jpg" group-title="CINE",Paramount Channel  
+http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/72589
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ybgGUDk.jpg" group-title="CINE",Paramount Network  
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/126
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eKZASl.png" group-title="CINE",COMEDY CENTRAL
+http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/72547                                                            
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="CINE",Golden Edge 
+http://my.streamerstv.com:25461/darien/darien/409                                                            
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="CINE",Golden Plus
+http://my.streamerstv.com:25461/darien/darien/410 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="CINE", Golden Premier FHD
+http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/72508                                                          
+#EXTINF:-1 tvg-logo="https://i.cdn.turner.com/tntla/images/portal/fixed/cards/isat-redes.jpg" group-title="CINE",ISAT
+                                                                                    
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/c1/a4/6ec1a4fa0de54eab32777165fdd8b8bc.jpg" group-title="CINE",E!
+http://my.streamerstv.com:25461/darien/darien/388                                                                #EXTINF:-1 tvg-id="106792" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png"group-title="CINE",Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="80288" tvg-name="Music Top" tvg-logo="https://lh3.googleusercontent.com/-6Em4fzTLMuU/XjtHLf96jvI/AAAAAAAAvqU/q3DfxbUdSiMDRDB1VBh_3hu3WDK_Nr-egCK8BGAsYHg/s0/2020-02-05.png"group-title="Musica", Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
@@ -188,168 +326,87 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Logo-m2o-plain-nero.jpg" group-title="Musica", M20Tv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" group-title="Musica", MTV  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41029
+                                                                                               
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" group-title="Musica", MTV Hits  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41028
+                                                                                          
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jD15gnL.jpg" group-title="Musica", VH1 CLASSIC  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41030
+                                                                                          
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jD15gnL.jpg" group-title="Musica",Portal Foxmix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjnOlda.png" group-title="Deportes", Fox Sport Premium  
-https://29hm3pwm68.azcdn107.net:8443/hls/nqr8ua5ep6t.m3u8?s=J8UaEtMQm2K-x4h5ZMHGiA&e=1626073259
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sQgcpZY.png" group-title="Deportes", TNT SPORT  
-https://29hm3pwm68.azcdn107.net:8443/hls/kqfqxg.m3u8?s=VOCr0b-xjfHQn6IiZCGx1Q&e=1626073063
+http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/73536
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQcRV3_pn8NFWf7HxvtSCVfkKIiNfAO5yXNq1CQ0K0=s900-c-k-c0x00ffffff-no-rj" group-title="Deportes", TyC Sports  
- /TNTSPORTS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ci3KvrE.png" group-title="Deportes", Bein Sport  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40971
-#EXTINF:-1 tvg-logo="https://i.imgur.com/84ZytvL.png" group-title="Deportes", Win Sport  
- /WINSPORT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/84ZytvL.png" group-title="Deportes", Win Sport Plus  
- /WINSPORTPLUS.m3u8
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/146 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQcRV3_pn8NFWf7HxvtSCVfkKIiNfAO5yXNq1CQ0K0=s900-c-k-c0x00ffffff-no-rj" group-title="Deportes", TyC Sports 1  
+http://my.streamerstv.com:25461/darien/darien/459
+  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vw05dXK.jpg" group-title="Deportes", DIRECTV SPORT  
-http://ipeteve.com/php/SR_REGIO_35857/regio22d.php?c=directv&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vw05dXK.jpg" group-title="Deportes", DIRECTV SPORT 2  
-http://ipeteve.com/php/SR_REGIO_35857/regio22d.php?c=directv2&f=.m3u8   
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes", Fox Sport  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41461
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes", Fox Sport 2 
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41007
+http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/73563                                                             #EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes", Fox Sport 2 
+                                                                                          
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes", Fox Sport 3   
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40976
+                                                                                          
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q9eV0bt.png" group-title="Deportes", ESPN Deportes  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41023
+                                                                                          
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes", ESPN 
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41010
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes", ESPN 2  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41009
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/112                                                    #EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes", ESPN 2  
+                                                                                          
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes", ESPN 3  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41008
+                                                                                          
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes", ESPN EXTRA 
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41469
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a70GlGB.jpg" group-title="Deportes", CLARO SPORT  
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41011
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mptxVUO.png" group-title="Deportes", TUDN   
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40968
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FjWnkUZ.png" group-title="Deportes", GARAGE TV  
-http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/NBC_Sports_logo_2012.png" group-title="Deportes",NBC Sports
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41021
-#EXTINF:-1 tvg-logo="https://www.harrowtimes.co.uk/resources/images/11423683.png?display=1&htype=0&type=responsive-gallery" group-title="Deportes",Sky Sport
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41056
-#EXTINF:-1 tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="Deportes",REALMADRID
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41466
-#EXTINF:-1 tvg-logo="https://www.ipuntotv.com/IMAGES/Venus-logo-con-slogan.png" group-title="Adultos",Venus
-https://29hm3pwm68.azcdn107.net:8443/hls/vwzh6npjwqalyzk.m3u8?s=AMuHcWrdxbUs_uyopg0Xpg&e=1626070803
-#EXTINF:0 group-title="peliculas" tvg-logo="https://lh3.googleusercontent.com/proxy/t1UAGfNwGF-NQBCQJDAJSkc-USrDrmwCnhdbGRo3soLirgDlroHe82JjHh0e5hjWw3ht4kcQgGwmwMR5fEXQ0hUuHPqBsAlwUYrn1vzslBeOZ2NYGR0CL_e0j6-egVt4IyjsI1w-_jBcHZS07yGbFdQ4SEb3ElY", Bebe Jefazo 2 Negocios de familia   
-http://ipeteve.com/REGIOFLIX090721/The.Boss.Baby.Family.Business.2021.%282021%29.1080P-Dual-Lat-SrRegio.NEt.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/07/guerra.jpg?fit=480%2C600&ssl=1", La guerra del manana   
-http://ipeteve.com/REGIOFLIX090721/La.Guerra.Del.Ma%C3%B1ana.%282021%29.1080P-Dual-Lat-SrRegio.Net.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://i1.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/07/calle-1.jpg?fit=426%2C597&ssl=1", La calle del Terror   
-http://ipeteve.com/REGIOFLIX090721/La.Calle.Del.Terror.%28Parte%201%29.1080P-SrRegio.Net.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/68/20/31/19785394.jpg?coixp=47&coiyp=41", El Rey Leon   
-http://ipeteve.com/REGIOFLIX090721/El%20Rey%20LeonSr.Regio.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://static.wikia.nocookie.net/studioghibli/images/a/ac/Mi-vecino-totoro_portada_ESP.jpg/revision/latest?cb=20200411042641&path-prefix=es", Mi vecino Totoro   
-http://ipeteve.com/REGIOFLIX090721/Mi%20vecino%20TotoroSr.Regio.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://www.lahiguera.net/cinemania/pelicula/9695/nadie-cartel-9712.jpg", Nadie   
-http://ipeteve.com/REGIOFLIX090721/Nadie%20%282021%29.1080P-Dual-Lat-Sr-Regio.Net.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61sznT-4n3L._AC_SX466_.jpg", LUCA   
-http://ipeteve.com/REGIOFLIX090721/Luca.%282021%29.1080P-Dual-Lat-Sr_Regio_Net.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Paternidad-729485901-large.jpg", Paternidad   
-http://ipeteve.com/REGIOFLIX090721/Fatherhood.%282021%29.1080P-Dual-SrRegio.Net.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://benditospoiler.com/wp-content/uploads/2021/04/poster-691x1024.png", El Conjuro 3   
-http://ipeteve.com/REGIOFLIX090721/el%20conjuro%203%201080p-srregio.net.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/35838-292439-20210126075948.jpg", Juega Conmigo   
-http://ipeteve.com/REGIOFLIX090721/Juega.Conmigo.%282021%29.1080P-Dual-Lat-srregio.net.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/06/Disomnia.jpg?fit=405%2C600&ssl=1", Disomnia   
-http://ipeteve.com/REGIOFLIX090721/Disomnia.%282021%29.1080P-Dual-Lat-srregio.net.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://sm.ign.com/ign_es/movie/g/godzilla-v/godzilla-vs-king-kong_qw9s.jpg", Godzilla vs Kong 2021   
-http://ipeteve.com/REGIOFLIX090721/g0dz1ll4.vs.k0ng.2021.hdrip.720p.latinoSrRegio.mp4
-#EXTINF:0 group-title="peliculas" tvg-logo="https://i.pinimg.com/736x/21/a8/42/21a842f616dcd343a96776516f329fd2.jpg", Cara Cortada   
-http://ipeteve.com/REGIOFLIX090721/CaraCortada.SrRegio.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://www.rockandpop.cl/wp-content/uploads/2020/07/6d3bf3be24955540eb853cfe75318dc5-819x1024.jpg", Cruella   
-http://ipeteve.com/REGIOFLIX090721/Cruella.SrRegio.mp4
-#EXTINF:0 group-title="peliculas" tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/03/ruega.jpg?resize=600%2C900&ssl=1", Ruega por nosotros   
-http://ipeteve.com/REGIOFLIX090721/Ruega.por.nosotros.SrRegio.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://pelismaraton.com/poster/mortal-kombat.jpg", Mortal Kombat 2021   
-http://ipeteve.com/REGIOFLIX090721/m0rt4l.k0mb4t.2021.hdrip.720p.latino.mp4
-#EXTINF:0 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/original/saHP97rTPS5eLmrLQEcANmKrsFl.jpg", Forrest Gump   
-http://ipeteve.com/REGIOFLIX090721/ForestGump.mp4
-#EXTINF:0 group-title="peliculas" tvg-logo="https://media.movieassets.com/static/images/items/movies/posters/923c0fbb794aba1f867a76e7922360f4.jpg", Sangre por sangre   
-http://ipeteve.com/REGIOFLIX090721/Sangre.por.Sangre.SrRegio.mp4
-#EXTINF:0 group-title="peliculas" tvg-logo="https://i.pinimg.com/originals/eb/0d/96/eb0d96284743ac36ea03cd679f4ad63f.jpg", Amigos Inseparables   
-http://ipeteve.com/REGIOFLIX090721/AmInSRREGIO.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://2.bp.blogspot.com/-tKCi3gVqH7Q/Wv7fu40fynI/AAAAAAAAOgI/eFTH6TaVM9sSI5EGH-bmt2qp88tVCYjoQCLcBGAs/s1600/12_Horas_Para_Sobrevivir_JPoster_Latino_a_JPosters.jpg", 12 Horas para sobrevivir: La Primera Purga   
-http://ipeteve.com/REGIOFLIX090721/12HorasPSobrevivirLaPrimeraPurgaSRREGIO.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/pictures/21/01/25/13/40/3112646.jpg", Tom & Jerry 2021   
-http://ipeteve.com/REGIOFLIX090721/t0m.4nd.j3rry.2021.hdrip.720p.latino.SRREGIO.NET.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/35194-486192-20200929064626.jpg", Venganza Implacable   
-http://ipeteve.com/REGIOFLIX090721/Honest.thief.2020.1080srregio.net.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://sm.ign.com/ign_es/movie/l/los-nuevos/los-nuevos-mutantes_rb66.jpg", Los Nuevos Mutantes   
-http://ipeteve.com/REGIOFLIX090721/th3.n3w.mut4nts.2020.brrip.720p.latino.mp4
-#EXTINF:0 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/10/soul_7.jpg?resize=743%2C1100&ssl=1", SOUL   
-http://ipeteve.com/REGIOFLIX090721/Soul.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:0 group-title="peliculas" tvg-logo="https://gnula.nu/wp-content/uploads/2020/12/Toys_of-_terror_poster_usa.jpg", Toys Of Terror   
-http://ipeteve.com/REGIOFLIX090721/Toys.of.terror.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:0 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/11/wonder_woman_84.jpg?resize=800%2C1186&ssl=1", Wonder Woman 1984 (2020)   
-http://ipeteve.com/REGIOFLIX090721/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:0 group-title="peliculas" tvg-logo="https://i0.wp.com/www.movieplusgt.com/wp-content/uploads/2020/07/Poster-el-practicante.jpg?resize=768%2C1138", El Practicante   
-https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1690&authkey=AMwmBE3n0gDprHI
-#EXTINF:0 group-title="peliculas" tvg-logo="https://i.pinimg.com/564x/ca/89/48/ca89485fd6d37bf689e10d6e6b4e58ea.jpg", Ajuste de Cuentas   
-https://onedrive.live.com/download.aspx?cid=E44DF942B91FC749&resid=E44DF942B91FC749%212797&authkey=AAEvvsEa01f8Jh0
-#EXTINF:0 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/01/trolls-2.jpg?resize=510%2C755&ssl=1", Trolls 2   
-https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1680&authkey=AJdrIV92ZSEaPLY
-#EXTINF:0 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/17/17/00/0735463.jpg", El Hoyo   
-https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1631&authkey=AAjm_Ggwl4dUbTI
-#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81JSykMB7DL._UR1200,1600_RI_.jpg", Cindy La Regia   
-https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3109&authkey=AOy_jIDek2FFBdQ
-#EXTINF:0 group-title="peliculas" tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2019/09/Parasitos_POSTER.jpg?resize=800%2C1132&ssl=1", Parasitos   
-https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3118&authkey=ANohO-EiyJ9nOcM
-#EXTINF:0 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/05/10/50/0307472.jpg", Verdad o Reto   
-https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1358&authkey=ANdX5tup-vBNhXM&ithint=video,mp4
-#EXTINF:0 group-title="peliculas" tvg-logo="https://miro.medium.com/max/462/1*x4Whh5zcot0LB0JdZOEXnA.jpeg", El Dilema de las Redes Sociales   
-http://vod.tuxchannel.tv/peliculas/720/the%20social%20dilemma%202020.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://cinepremiere.com.mx/imgsHistorico/u7/El_Infierno_sin_cens_1.jpg", El Infierno   
-https://archive.org/download/ein-srregio/EInSRREGIO.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/regreso-al-futuro-poster-30x46cm-back-to-the-future-po095-D_NQ_NP_935111-MLM20493561423_112015-F.jpg", Volver al Futuro   
-https://archive.org/download/qwerty_202001/qwerty.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51URcEemjTL.jpg", Volver al Futuro 2   
-https://archive.org/download/qwerty2/qwerty2.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/pictures/14/04/28/11/11/012699.jpg", Volver al Futuro 3   
-https://archive.org/download/qwerty3/qwerty3.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/17/02/08/13/46/111920.jpg", Your Name   
-https://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MjQ3MjI5MV5BMl5BanBnXkFtZTgwNjczMDE4NTM@._V1_.jpg", Jhonny English 3.0   
-https://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://imgc.allpostersimages.com/img/print/posters/regreso-al-futuro_a-G-1651411-0.jpg", Volver al Futuro   
-https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0Nzg2Mzg2OV5BMl5BanBnXkFtZTgwNjE1NDM4NTM@._V1_.jpg", La Bruja en la Ventana SUBTITULADO   
-https://archive.org/download/70452SRREGIO/70452SRREGIO.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/e/ee/Eso_%281990%29_Car%C3%A1tula.jpg/revision/latest?cb=20171020012317&path-prefix=es", Eso (It) 1990   
-https://archive.org/download/17350SRREGIO/17350SRREGIO.mp4
-#EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0MjAwMDkxNV5BMl5BanBnXkFtZTgwMTA4ODIxNjM@._V1_.jpg", Next Gen     
-https://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_32657_27.jpg", Tragedy Girls     
-https://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/78/40/96/20433085.jpg", La Fuerza De La Ilusion     
-https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="http://turquesapop.fm/wp-content/uploads/2018/01/when-we-met-poster.jpg", Cuando nos Conocimos     
-https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/180520re/la-forma-del-agua/135589642-3-esl-ES/La-forma-del-agua.jpg", La Forma del Agua SUBTITULADO     
-https://archive.org/download/ThSRREGIO/ThSRREGIO.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MjQ0OTA4OF5BMl5BanBnXkFtZTcwNTkxODYyOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg", Nosotros Los Nobles     
-https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
-#EXTINF:0 group-title="peliculas" tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg", The Cloverfield Paradox     
-https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
-#EXTINF:0 group-title="peliculas" tvg-logo="https://cdn.traileraddict.com/content/vertical-entertainment/terminus-poster.jpg", Terminus     
-https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gh9OaWVcL.jpg", Deadpool     
-https://archive.org/download/DeSRREGIO/DeSRREGIO.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://i1.wp.com/www.proximosestrenos.com.ar/wp-content/uploads/2015/04/poster-intensamente.jpg", Intensamente     
-https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/10/jigsaw-poster.jpg", JIGSAW VIII     
-https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg", Redada Asesina     
-https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg", SAW VIII SUBTITULADO     
-https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+                                                                                                                #EXTINF:-1 tvg-logo="https://i.imgur.com/FjWnkUZ.png" group-title="Deportes", GARAGE TV  
+                                                                                          
+#EXTINF:-1 tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="Deportes", REAL MADRID
+                                                                                          
+#EXTINF:-1 tvg-logo="https://www.ipuntotv.com/IMAGES/Venus-logo-con-slogan.png" group-title="Adultos", Private
+http://my.streamerstv.com:25461/darien/darien/853
+#EXTINF:-1tvg-logo="https://www.ipuntotv.com/IMAGES/Venus-logo-con-slogan.png" group-title="Adultos", BRAZZERS
+http://my.streamerstv.com:25461/darien/darien/835
+#EXTINF:-1tvg-logo="https://www.ipuntotv.com/IMAGES/Venus-logo-con-slogan.png" group-title="Adultos", BRAZZERS TV EUROPE
+http://my.streamerstv.com:25461/darien/darien/836
+#EXTINF:-1tvg-logo="https://www.ipuntotv.com/IMAGES/Venus-logo-con-slogan.png" group-title="Adultos", DORCEL
+http://my.streamerstv.com:25461/darien/darien/837
+#EXTINF:-1tvg-logo="https://www.ipuntotv.com/IMAGES/Venus-logo-con-slogan.png" group-title="Adultos", DORCEL XXX
+http://my.streamerstv.com:25461/darien/darien/838
+#EXTINF:-1tvg-logo="https://www.ipuntotv.com/IMAGES/Venus-logo-con-slogan.png" group-title="Adultos", EROX
+http://my.streamerstv.com:25461/darien/darien/839
+#EXTINF:-1tvg-logo="https://www.ipuntotv.com/IMAGES/Venus-logo-con-slogan.png" group-title="Adultos", EVIL ANGEL
+http://my.streamerstv.com:25461/darien/darien/840
+#EXTINF:-1tvg-logo="https://www.ipuntotv.com/IMAGES/Venus-logo-con-slogan.png" group-title="Adultos", HUSTLER
+http://my.streamerstv.com:25461/darien/darien/841
+#EXTINF:-1tvg-logo="https://www.ipuntotv.com/IMAGES/Venus-logo-con-slogan.png" group-title="Adultos", HUSTLER TV
+http://my.streamerstv.com:25461/darien/darien/842
+#EXTINF:-1tvg-logo="https://www.ipuntotv.com/IMAGES/Venus-logo-con-slogan.png" group-title="Adultos", O LA LA TV
+http://my.streamerstv.com:25461/darien/darien/843
+#EXTINF:-1,tvg-logo="https://www.ipuntotv.com/IMAGES/Venus-logo-con-slogan.png" group-title="Adultos", PASSIE XXX
+http://my.streamerstv.com:25461/darien/darien/844
+#EXTINF:-1,tvg-logo="https://www.ipuntotv.com/IMAGES/Venus-logo-con-slogan.png" group-title="Adultos", PASSION XXX
+http://my.streamerstv.com:25461/darien/darien/845
+#EXTINF:-1,tvg-logo="https://www.ipuntotv.com/IMAGES/Venus-logo-con-slogan.png" group-title="Adultos", PENTHOUSE BLACK
+http://my.streamerstv.com:25461/darien/darien/846
+#EXTINF:-1,tvg-logo="https://www.ipuntotv.com/IMAGES/Venus-logo-con-slogan.png" group-title="Adultos", PENTHOUSE GOLD
+http://my.streamerstv.com:25461/darien/darien/847
+#EXTINF:-1,tvg-logo="https://www.ipuntotv.com/IMAGES/Venus-logo-con-slogan.png" group-title="Adultos", PENTHOUSE PASSION
+http://my.streamerstv.com:25461/darien/darien/848
+#EXTINF:-1,tvg-logo="https://www.ipuntotv.com/IMAGES/Venus-logo-con-slogan.png" group-title="Adultos", PENTHOUSE QUICKIES
+http://my.streamerstv.com:25461/darien/darien/849
+#EXTINF:-1,tvg-logo="https://www.ipuntotv.com/IMAGES/Venus-logo-con-slogan.png" group-title="Adultos", PINK EROTIC
+http://my.streamerstv.com:25461/darien/darien/850
+#EXTINF:-1,tvg-logo="https://www.ipuntotv.com/IMAGES/Venus-logo-con-slogan.png" group-title="Adultos", PLAYBOY
+http://my.streamerstv.com:25461/darien/darien/851
+#EXTINF:-1,tvg-logo="https://www.ipuntotv.com/IMAGES/Venus-logo-con-slogan.png" group-title="Adultos", PLAYHOUSE
+http://my.streamerstv.com:25461/darien/darien/852
+#EXTINF:-1,tvg-logo="https://www.ipuntotv.com/IMAGES/Venus-logo-con-slogan.png" group-title="Adultos", REDLIGHT
+http://my.streamerstv.com:25461/darien/darien/854
+#EXTINF:-1,tvg-logo="https://www.ipuntotv.com/IMAGES/Venus-logo-con-slogan.png" group-title="Adultos", SEXTREME
+http://my.streamerstv.com:25461/darien/darien/855
+#EXTINF:-1,tvg-logo="https://www.ipuntotv.com/IMAGES/Venus-logo-con-slogan.png" group-title="Adultos", VIVID RED
+http://my.streamerstv.com:25461/darien/darien/856
+#EXTINF:-1,tvg-logo="https://www.ipuntotv.com/IMAGES/Venus-logo-con-slogan.png" group-title="Adultos", BLACK TV
+http://my.streamerstv.com:25461/darien/darien/2826 
+
