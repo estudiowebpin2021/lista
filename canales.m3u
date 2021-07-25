@@ -1,284 +1,240 @@
-#EXTINF:-1, Telefe Rosario
+#EXTM3U
+#EXTINF:-1 tvg-id=tvg-name="Telefe Rosario" tvg-logo="https://lh3.googleusercontent.com/-KNE27rU05SI/XzgfWidnEYI/AAAAAAAA4W4/5oJjapTKgrA6Uxus1bDxbJ2zvCEQ8JIRACK8BGAsYHg/s0/2020-08-15.jpg"group-title="NOTICIAS", Telefe Rosario
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
-#EXTINF:-1, Canal 3 Rosario
+#EXTINF:-1 tvg-id=tvg-name="Canal 3 Rosario" tvg-logo="https://lh3.googleusercontent.com/-bQQ-LJtusqs/Xzgfk782ZiI/AAAAAAAA4XA/H40-oyzIZ_I8KqznT-hA1UwJW9EKjicqgCK8BGAsYHg/s0/2020-08-15.png"group-title="NOTICIAS", Canal 3 Rosario
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
-#EXTINF:-1, 26
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQFUby8.png" group-title="NOTICIAS", canal 26 
 http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1, A24 HD
-http://pn.tvott.info:80/691311505415046/691311505415046/87106
-#EXTINF:-1, C5N
-http://pn.tvott.info:80/691311505415046/691311505415046/87108
-#EXTINF:-1, TN NOTICIAS
-http://pn.tvott.info:80/691311505415046/691311505415046/87109
-#EXTINF:-1, El nueve
-http://pn.tvott.info:80/691311505415046/691311505415046/87121
-#EXTINF:-1, Telefe
-http://pn.tvott.info:80/691311505415046/691311505415046/87123
-#EXTINF:-1, El trece
-http://pn.tvott.info:80/691311505415046/691311505415046/87122
-#EXTINF:-1,CRONICA TV                                                                                                                   CRONICA
-http://pn.tvott.info:80/691311505415046/691311505415046/87112
-#EXTINF:-1, CNN en Espanol
-http://pn.tvott.info:80/691311505415046/691311505415046/86929
-#EXTINF:-1, RT en Español
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VZH3c3O.png" group-title="NOTICIAS", A24 
+http://pn.tvott.info:80/691311505415046/691311505415046/87106                                                                                                                               
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VZH3c3O.png" group-title="NOTICIAS", C5N
+http://pn.tvott.info:80/691311505415046/691311505415046/87108                                                                                                                               
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VZH3c3O.png" group-title="NOTICIAS", CRONICA tv
+http://pn.tvott.info:80/691311505415046/691311505415046/87112                                                                                                                               
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VZH3c3O.png" group-title="NOTICIAS", TN NOTICIAS  
+http://pn.tvott.info:80/691311505415046/691311505415046/87109                                                                                          
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VZH3c3O.png" group-title="NOTICIAS", El nueve  
+http://pn.tvott.info:80/691311505415046/691311505415046/87121                                                                                                                               
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="NOTICIAS", Telefe  
+http://pn.tvott.info:80/691311505415046/691311505415046/87123                                                                                          
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uYOLwOj.png" group-title="NOTICIAS", El trece  
+http://pn.tvott.info:80/691311505415046/691311505415046/87122                                                                                                                               
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Y9uawT.png" group-title="NOTICIAS", CNN en Espanol  
+http://pn.tvott.info:80/691311505415046/691311505415046/86929                                                                                                                                                                                   
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qv3P4pm.png" group-title="NOTICIAS", RT en Español  
 https://rt-esp.secure.footprint.net/1102_4500Kb.m3u8
-#EXTINF:-1, TV Publica Argentina
-http://pn.tvott.info:80/691311505415046/691311505415046/87125
-#EXTINF:-1, America TV
-http://pn.tvott.info:80/691311505415046/691311505415046/87124
-#EXTINF:-1, GOURMET
-http://pn.tvott.info:80/691311505415046/691311505415046/86970
-#EXTINF:-1, GLITZ
-http://pn.tvott.info:80/691311505415046/691311505415046/87036
-#EXTINF:-1, Argentinisima Satelital
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mR7mxPY.png" group-title="NOTICIAS", TV Publica Argentina  
+http://pn.tvott.info:80/691311505415046/691311505415046/87125                                                                                                                               
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ojP9uxU.png" group-title="NOTICIAS", America TV  
+http://pn.tvott.info:80/691311505415046/691311505415046/87124  
+#EXTINF:-1,tvg-logo="https://i.imgur.com/ojP9uxU.png" group-title="NOTICIAS", TELEMUNDO INTERNACIONAL
+http://pn.tvott.info:80/691311505415046/691311505415046/87034                                                                                                                            
+#EXTINF:-1 tvg-id="45088" tvg-name="Canal Rural" tvg-logo="https://lh3.googleusercontent.com/-6W3lyz48LJQ/X8__9zMfZDI/AAAAAAAA8Cs/yddCBer685MzMn3-Z4sqv6IouOkY_hdcgCK8BGAsYHg/s0/2020-12-08.jpg", Canal Rural
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8 
+#EXTINF: -1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIZcnKiQfbpWkPGPY2YHuDOpiC2NXcp99Rqjn531gSxt7v2-6Xma8VhFWgotOh_kuVQY8&usqp=CAU" group-title="NOTICIAS", Argentinisima Satelital
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m3u8
-#EXTINF:-1, Telemax
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
-#EXTINF:-1, Canal Rural
-https://cda2.alsolnet.com/elrural/live/playlist.m3u8
-
-#EXTINF:-1, Paka Paka
-http://pn.tvott.info:80/691311505415046/691311505415046/87103
-#EXTINF:-1, DISNEY CHANNEL.
-http://pn.tvott.info:80/691311505415046/691311505415046/86968
-#EXTINF:-1, DISNEY JR
-http://pn.tvott.info:80/691311505415046/691311505415046/86967
-#EXTINF:-1, NICK JR
+#EXTINF: -1,tvg-logo="https://pbs.twimg.com/profile_images/1083024133062123521/cHU8zOpn.jpg" group-title="NOTICIAS", Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8                                   
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/2c15cb09-f111-4b08-b86e-421cbf221fe1_m.jpg" group-title="COCINA", El Gourmet
+http://pn.tvott.info:80/691311505415046/691311505415046/86970
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", CARTOON NETWORD  
+http://pn.tvott.info:80/691311505415046/691311505415046/86957                                                                                                                                                                             
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil", Disney Channel  
+http://pn.tvott.info:80/691311505415046/691311505415046/86968                                                                                                                                                                           
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NLNivxd.jpg" group-title="Infantil", Disney XD  
+http://pn.tvott.info:80/691311505415046/691311505415046/86964                                                                                                                                                            
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil", Disney Jr  
+http://pn.tvott.info:80/691311505415046/691311505415046/86967                                                                                                                                                                            
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil", Nickelodeon  
+http://pn.tvott.info:80/691311505415046/691311505415046/86963                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Infantil", NICK JR  
 http://pn.tvott.info:80/691311505415046/691311505415046/86966
-#EXTINF:-1, NICK 2
-http://pn.tvott.info:80/691311505415046/691311505415046/86965
-#EXTINF:-1, DISNEY XD
-http://pn.tvott.info:80/691311505415046/691311505415046/86964
-#EXTINF:-1, CARTOON NETWORK
-http://pn.tvott.info:80/691311505415046/691311505415046/86957
-#EXTINF:-1,BOOMERANG
-http://pn.tvott.info:80/691311505415046/691311505415046/86961
-#EXTINF:-1,NICKELODEON
-http://pn.tvott.info:80/691311505415046/691311505415046/86963
-#EXTINF:-1,COMEDY CENTRAL
-http://pn.tvott.info:80/691311505415046/691311505415046/86962
-
-
-#EXTINF:-1, Animal Planet
-http://my.streamerstv.com:25461/Andy/Andy/361
-#EXTINF:-1,NAT GEO
-http://pn.tvott.info:80/691311505415046/691311505415046/86953
-#EXTINF:-1,NAT GEO WILD
-http://pn.tvott.info:80/691311505415046/691311505415046/86952
-#EXTINF:-1,DISCOVERY CHANNEL
-http://pn.tvott.info:80/691311505415046/691311505415046/86951
-#EXTINF:-1,DISCOVERY INVESTIGATION
-http://pn.tvott.info:80/691311505415046/691311505415046/86950
-#EXTINF:-1,DISCOVERY HOME&HEALTH
-http://pn.tvott.info:80/691311505415046/691311505415046/86949
-#EXTINF:-1,DISCOVERY KIDS
-http://pn.tvott.info:80/691311505415046/691311505415046/86948
-#EXTINF:-1,DISCOVERY TURBO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/brvWB3u.png" group-title="Infantil", Discovery Kids  
+http://pn.tvott.info:80/691311505415046/691311505415046/86948                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+#EXTINF:-1 tvg-logo="https://cn.i.cdn.ti-platform.com/cnlatam/content/1057/showpage/boomerang/ar/cardposta.jpg" group-title="Infantil", Boomerang
+http://pn.tvott.info:80/691311505415046/691311505415046/86961                                      
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQbue1WVK5s0ne8sFBVwxf6u7-TbKAdPjK-YCHI8g=s900-c-k-c0x00ffffff-no-rj" group-title="Infantil", Paka Paka
+http://pn.tvott.info:80/691311505415046/691311505415046/87103
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pTPpWJi.jpg" group-title="Cultura", Animal Planet  
+http://pn.tvott.info:80/691311505415046/691311505415046/86944                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="Cultura", Discovery Channel  
+http://pn.tvott.info:80/691311505415046/691311505415046/86951                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HWv6NHE.jpg" group-title="Cultura", Discovery Turbo 
 http://pn.tvott.info:80/691311505415046/691311505415046/86947
-#EXTINF:-1,DISCOVERY THEATER
+#EXTINF:-1,tvg-logo="https://i.imgur.com/HWv6NHE.jpg" group-title="Cultura", DISCOVERY INVESTIGACION
+http://pn.tvott.info:80/691311505415046/691311505415046/86950                                                                                                                              
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MyPyuM2.jpg" group-title="Cultura", Discovery Sciences  
+http://pn.tvott.info:80/691311505415046/691311505415046/86945                                       
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OO9PaGb.jpg" group-title="Cultura", Discovery H&H  
+http://pn.tvott.info:80/691311505415046/691311505415046/86949
+#EXTINF:-1, tvg-logo="https://i.imgur.com/OO9PaGb.jpg" group-title="Cultura", DISCOVERY TURBO
+http://pn.tvott.info:80/691311505415046/691311505415046/86947
+#EXTINF:-1, tvg-logo="https://i.imgur.com/OO9PaGb.jpg" group-title="Cultura", DISCOVERY THEATER
 http://pn.tvott.info:80/691311505415046/691311505415046/86946
-#EXTINF:-1,DISCOVERY SCIENCE
-http://pn.tvott.info:80/691311505415046/691311505415046/86945
-#EXTINF:-1,ANIMAL PLANET
-http://pn.tvott.info:80/691311505415046/691311505415046/86944
-#EXTINF:-1,HISTORY
+#EXTINF: -1, tvg-logo="https://i.imgur.com/OO9PaGb.jpg" group-title="Cultura", ID
+http://pn.tvott.info:80/691311505415046/691311505415046/86942                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XW8CuxK.jpg" group-title="Cultura", TLC  
+http://pn.tvott.info:80/691311505415046/691311505415046/87012                                                                                                                                                                                
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/history_channel_c.png" group-title="Cultura", History 
 http://pn.tvott.info:80/691311505415046/691311505415046/86943
-#EXTINF:-1,H2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ypR4tvy.jpg" group-title="Cultura", History 2  
 http://pn.tvott.info:80/691311505415046/691311505415046/86941
-#EXTINF:-1,ID
-http://pn.tvott.info:80/691311505415046/691311505415046/86942
-#EXTINF:-1, NASA iss
-http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
-#EXTINF:-1, NASA Media
-http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
-#EXTINF:-1, NASA Public
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1,Star Channel
-https://edge1.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8
-#EXTINF:-1, FOX PREMIUM MOVIES
-http://pn.tvott.info:80/691311505415046/691311505415046/87023
-#EXTINF:-1,FOX PREMIUM CINEMA
-http://pn.tvott.info:80/691311505415046/691311505415046/87022
-#EXTINF:-1, FOX PREMIUM ACTION
-http://pn.tvott.info:80/691311505415046/691311505415046/87021
-#EXTINF:-1,FOX PREMIUM COMEDY
-http://pn.tvott.info:80/691311505415046/691311505415046/87020
-#EXTINF:-1, FOX PREMIUM FAMILY
-http://pn.tvott.info:80/691311505415046/691311505415046/87019
-#EXTINF:-1, FOX PREMIUM SERIES
-http://pn.tvott.info:80/691311505415046/691311505415046/87018
-#EXTINF:-1,FX
-http://pn.tvott.info:80/691311505415046/691311505415046/87010
-#EXTINF:-1,FOX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dq6jLKm.jpg" group-title="Cultura", NATIONAL GEOGRAPHIC
+http://pn.tvott.info:80/691311505415046/691311505415046/86953                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YFDNnoK.jpg" group-title="Cultura", NATGEO Wild  
+http://pn.tvott.info:80/691311505415046/691311505415046/86952                                                                                                                                                                                
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Vaq92j.jpg" group-title="Cultura", A&E  
+http://pn.tvott.info:80/691311505415046/691311505415046/86975                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eHhcsEN.png" group-title="CINE",Star Channel  
 http://pn.tvott.info:80/691311505415046/691311505415046/87009
-#EXTINF:-1, FOX ACTION
-http://pn.tvott.info:80/691311505415046/691311505415046/87008
-#EXTINF:-1, FOX CINEMA
-http://pn.tvott.info:80/691311505415046/691311505415046/87007
-#EXTINF:-1, FOX CLASSIC
-http://pn.tvott.info:80/691311505415046/691311505415046/87006
-#EXTINF:-1, FOX LIFE
-http://pn.tvott.info:80/691311505415046/691311505415046/87005
-#EXTINF:-1, FOX MOVIES
-http://pn.tvott.info:80/691311505415046/691311505415046/87004
-#EXTINF:-1, HBO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cy89pWC.png" group-title="CINE",Star Life  
+http://pn.tvott.info:80/691311505415046/691311505415046/87005                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MshuPCU.png" group-title="CINE",Star Action  
+http://pn.tvott.info:80/691311505415046/691311505415046/87021                                                                                                                                                                                 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7kRGbE6.png" group-title="CINE",Star Cinema  
+http://pn.tvott.info:80/691311505415046/691311505415046/87022                                                                                              
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7kRGbE6.png" group-title="CINE",Fox Movies 
+http://pn.tvott.info:80/691311505415046/691311505415046/87023                                                                                                                                                                                 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeLj0u.png" group-title="CINE",Star Comedy  
+http://pn.tvott.info:80/691311505415046/691311505415046/87020                                                                                                                            
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dvggMbn.png" group-title="CINE",Star Classics  
+http://pn.tvott.info:80/691311505415046/691311505415046/87006                                                                                                                                                                              
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5eYXAxv.png" group-title="CINE",Star Family  
+http://pn.tvott.info:80/691311505415046/691311505415046/87019                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W8qL6rh.png" group-title="CINE",Star Series  
+http://pn.tvott.info:80/691311505415046/691311505415046/87018 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="CINE",FX  
+http://pn.tvott.info:80/691311505415046/691311505415046/87010 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XPgR9ky.jpg" group-title="CINE",FXM  
+https://emqf7d2bfb.azcdn728.net:8443/hls/jpizlg1osqocv.m3u8?s=yvspbfWWObXKRUezfFo9Vw&e=1627203892                                                                                                                                                 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="CINE",HBO  
 http://pn.tvott.info:80/691311505415046/691311505415046/87029
-#EXTINF:-1, HBO 2
-http://pn.tvott.info:80/691311505415046/691311505415046/87028
-#EXTINF:-1, HBO PLUS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg" group-title="CINE",HBO2  
+http://pn.tvott.info:80/691311505415046/691311505415046/87028                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k9ctQko.jpg" group-title="CINE",HBO PLUS  
 http://pn.tvott.info:80/691311505415046/691311505415046/87027
-#EXTINF:-1, HBO FAMILY
-http://pn.tvott.info:80/691311505415046/691311505415046/87026
-#EXTINF:-1, HBO SIGNATURE
-http://pn.tvott.info:80/691311505415046/691311505415046/87025
-#EXTINF:-1, HBO ESTE
-http://pn.tvott.info:80/691311505415046/691311505415046/87024
-#EXTINF:-1,CINE CANAL
-http://pn.tvott.info:80/691311505415046/691311505415046/86993
-#EXTINF:-1,Cinemax
-http://pn.tvott.info:80/691311505415046/691311505415046/86956
-#EXTINF:-1, MAX UP
-http://pn.tvott.info:80/691311505415046/691311505415046/86978
-#EXTINF:-1,WARNER CHANNEL
-http://pn.tvott.info:80/691311505415046/691311505415046/86990
-#EXTINF:-1,CLARO CINEMA
-http://pn.tvott.info:80/691311505415046/691311505415046/86989
-#EXTINF:-1, GOLDEN EDGE
-http://pn.tvott.info:80/691311505415046/691311505415046/86980
-#EXTINF:-1, GOLDEN
-http://pn.tvott.info:80/691311505415046/691311505415046/86979
-#EXTINF:-1, GOLDEN PREMIER
-http://pn.tvott.info:80/691311505415046/691311505415046/86988
-#EXTINF:-1, PARAMOUNT
-http://pn.tvott.info:80/691311505415046/691311505415046/86987
-#EXTINF:-1, SONY
-http://pn.tvott.info:80/691311505415046/691311505415046/86986
-#EXTINF:-1, SPACE
-http://pn.tvott.info:80/691311505415046/691311505415046/86985
-#EXTINF:-1, UNIVERSAL CHANNEL
-http://pn.tvott.info:80/691311505415046/691311505415046/87000
-#EXTINF:-1, STUDIO UNIVERSAL
-http://pn.tvott.info:80/691311505415046/691311505415046/86984
-#EXTINF:-1, TNT SERIES
-http://pn.tvott.info:80/691311505415046/691311505415046/86982
-#EXTINF:-1, TNT
-http://pn.tvott.info:80/691311505415046/691311505415046/86981
-#EXTINF:-1,MULTIPREMIER
-http://pn.tvott.info:80/691311505415046/691311505415046/86992
-#EXTINF:-1, DHE
-http://pn.tvott.info:80/691311505415046/691311505415046/86991
-#EXTINF:-1, TBS
-http://pn.tvott.info:80/691311505415046/691311505415046/87035
-#EXTINF:-1,TCM
-http://pn.tvott.info:80/691311505415046/691311505415046/86983
-#EXTINF:-1,TLC
-http://pn.tvott.info:80/691311505415046/691311505415046/87012
-#EXTINF:-1, SYFY
-http://pn.tvott.info:80/691311505415046/691311505415046/87011
-#EXTINF:-1, ISAT
-http://pn.tvott.info:80/691311505415046/691311505415046/87032
-#EXTINF:-1, AMC
-http://pn.tvott.info:80/691311505415046/691311505415046/87003
-#EXTINF:-1, AXN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KQSKMwy.jpg" group-title="CINE",HBO FAMILY  
+http://pn.tvott.info:80/691311505415046/691311505415046/87026                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sVEsqdE.jpg" group-title="CINE",HBO SIGNATURE  
+http://pn.tvott.info:80/691311505415046/691311505415046/87025                                       
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EomyGGs.jpg" group-title="CINE",AMC  
+http://pn.tvott.info:80/691311505415046/691311505415046/87003                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Db6x442.jpg" group-title="CINE",Warner   
+http://pn.tvott.info:80/691311505415046/691311505415046/86990                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="CINE",Universal Channelhttp://pn.tvott.info:80/691311505415046/691311505415046/87012  
+http://pn.tvott.info:80/691311505415046/691311505415046/87000                                                                                                                                                                                                                                                                                                                                                                                             
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OdR3aff.jpg" group-title="CINE",AXN 
 http://pn.tvott.info:80/691311505415046/691311505415046/87002
-#EXTINF:-1,A&E
-http://pn.tvott.info:80/691311505415046/691311505415046/86975
-#EXTINF:-1, Cine latino 
-http://my.streamerstv.com:25461/Andy/Andy/2268
-#EXTINF:-1,Xtrema Tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="CINE",Sony  
+http://pn.tvott.info:80/691311505415046/691311505415046/86986                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+#EXTINF:-1,tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="CINE",SYFY
+http://pn.tvott.info:80/691311505415046/691311505415046/87011                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dAQL5tZ.jpg" group-title="CINE",TNT  
+http://pn.tvott.info:80/691311505415046/691311505415046/86981                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="CINE",TNT Series  
+http://pn.tvott.info:80/691311505415046/691311505415046/86982                                                                                                                                                                                                                                  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="CINE",Space  
+http://pn.tvott.info:80/691311505415046/691311505415046/86985                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="CINE",Studio Universal  
+http://pn.tvott.info:80/691311505415046/691311505415046/86984                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EOS4pd9.jpg" group-title="CINE",TBS  
+http://pn.tvott.info:80/691311505415046/691311505415046/87035                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ysV38FI.jpg" group-title="CINE",TCM  
+http://pn.tvott.info:80/691311505415046/691311505415046/86983                                                                                                                                                                                
+#EXTINF:-1 tvg-logo="https://d2p1nnn035jt22.cloudfront.net/spw_video/teasers/cine_02-web.jpg" group-title="CINE", Cine latino
+http://pn.tvott.info:80/691311505415046/691311505415046/86927                                                                                                                                                                                                                                  
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxOYlX4UvBj85nCdISeddjeIoDxRI_Ys9g48GkAO3qEPLatpsubVtvtVx6tFBDNlKB0DU&usqp=CAU" group-title="CINE",Xtrema Tv
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1, DISTRITO COMEDIA
-http://pn.tvott.info:80/691311505415046/691311505415046/86973
-#EXTINF:-1, American Horrors
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tOWSdVk.jpg" group-title="CINE",Cinecanal  
+http://pn.tvott.info:80/691311505415046/691311505415046/86993                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    #EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="CINE",Cinemax
+http://pn.tvott.info:80/691311505415046/691311505415046/86956                                                                                                                                                                                                                                  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="CINE", Max Up
+http://pn.tvott.info:80/691311505415046/691311505415046/86978                                                                                                                                                                                                                                                                        
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ybgGUDk.jpg" group-title="CINE",Paramount Channel  
+http://pn.tvott.info:80/691311505415046/691311505415046/86987                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eKZASl.png" group-title="CINE",COMEDY CENTRAL
+http://pn.tvott.info:80/691311505415046/691311505415046/86962
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="CINE",Golden
+http://pn.tvott.info:80/691311505415046/691311505415046/86979                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="CINE",Golden Edge 
+http://pn.tvott.info:80/691311505415046/691311505415046/86980                                                                                                                                                                                   
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="CINE", Golden Premier 
+http://pn.tvott.info:80/691311505415046/691311505415046/86988                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+#EXTINF:-1 tvg-logo="https://i.cdn.turner.com/tntla/images/portal/fixed/cards/isat-redes.jpg" group-title="CINE",ISAT
+http://pn.tvott.info:80/691311505415046/691311505415046/87032                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/c1/a4/6ec1a4fa0de54eab32777165fdd8b8bc.jpg" group-title="CINE",E!
+http://pn.tvott.info:80/691311505415046/691311505415046/86972                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/c1/a4/6ec1a4fa0de54eab32777165fdd8b8bc.jpg" group-title="CINE", American Horrors
 http://170.178.189.66:1935/live/Stream1/.m3u8
-#EXTINF:-1, CINE +
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/c1/a4/6ec1a4fa0de54eab32777165fdd8b8bc.jpg" group-title="CINE", CINE +
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1, Pelis
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/c1/a4/6ec1a4fa0de54eab32777165fdd8b8bc.jpg" group-title="CINE", Pelis
 http://184.173.181.2:1935/8062/8062/playlist.m3u8
-#EXTINF:-1, E! ENTERTAINMENT
-http://pn.tvott.info:80/691311505415046/691311505415046/86972
-#EXTINF:-1, LATINOS 1 HD
-http://pn.tvott.info:80/691311505415046/691311505415046/86927
-#EXTINF:-1, HTV
-http://pn.tvott.info:80/691311505415046/691311505415046/86926
-#EXTINF:-1, TU MUSICA
-http://pn.tvott.info:80/691311505415046/691311505415046/86925
-#EXTINF:-1, MTV
-http://pn.tvott.info:80/691311505415046/691311505415046/86924
-#EXTINF:-1, VH1
-http://pn.tvott.info:80/691311505415046/691311505415046/86922
-#EXTINF:-1, TOP MUSIC                                                                                                                  TOP LATINO TV
-http://pn.tvott.info:80/691311505415046/691311505415046/87110
-#EXTINF:-1,Retro Plus TV
+#EXTINF:-1 tvg-id="106792" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png"group-title="CINE",Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1, Music Top
+#EXTINF:-1 tvg-id="80288" tvg-name="Music Top" tvg-logo="https://lh3.googleusercontent.com/-6Em4fzTLMuU/XjtHLf96jvI/AAAAAAAAvqU/q3DfxbUdSiMDRDB1VBh_3hu3WDK_Nr-egCK8BGAsYHg/s0/2020-02-05.png"group-title="Musica", Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1, retro music
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/902962783112835072/opFhTV_r_400x400.jpg" group-title="Musica", retro music 
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
-#EXTINF:-1, M20Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Logo-m2o-plain-nero.jpg" group-title="Musica", M20Tv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1,Portal Foxmix
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" group-title="Musica", MTV  
+http://pn.tvott.info:80/691311505415046/691311505415046/86924                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jD15gnL.jpg" group-title="Musica",Portal Foxmix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
-
-#EXTINF:-1, FOX SPORTS PREMIUM
-http://pn.tvott.info:80/691311505415046/691311505415046/87099
-#EXTINF:-1, TNT SPORT
-http://pn.tvott.info:80/691311505415046/691311505415046/87098
-#EXTINF:-1,TYC
-http://pn.tvott.info:80/691311505415046/691311505415046/87090
-#EXTINF:-1, TyC Sports 1
-http://pn.tvott.info:80/307241045455/307241045455/87090
-#EXTINF:-1, TyC Sports 2
-http://my.streamerstv.com:25461/Andy/Andy/459
-#EXTINF:-1, FOX SPORT
-http://pn.tvott.info:80/691311505415046/691311505415046/87102
-#EXTINF:-1,FOX SPORT 2
-http://pn.tvott.info:80/691311505415046/691311505415046/87101
-#EXTINF:-1,FOX SPORT 3
-http://pn.tvott.info:80/691311505415046/691311505415046/87100
-#EXTINF:-1,DIRECT TV SPORTS
-http://pn.tvott.info:80/691311505415046/691311505415046/87097
-#EXTINF:-1,DIRECT TV SPORTS 2
-http://pn.tvott.info:80/691311505415046/691311505415046/87096
-#EXTINF:-1,DIRECT TV SPORTS PLUS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xjnOlda.png" group-title="Deportes", Fox Sport Premium  
+http://pn.tvott.info:80/691311505415046/691311505415046/87099                                                                                          
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sQgcpZY.png" group-title="Deportes", TNT SPORT  
+http://pn.tvott.info:80/691311505415046/691311505415046/87098                                                                                         
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQcRV3_pn8NFWf7HxvtSCVfkKIiNfAO5yXNq1CQ0K0=s900-c-k-c0x00ffffff-no-rj" group-title="Deportes", TyC Sports  
+http://pn.tvott.info:80/691311505415046/691311505415046/87090                                                                                                                                                                                                                                   
+#EXTINF:-1,group-title="Deportes", DIRECT TV SPORTS
+http://pn.tvott.info:80/691311505415046/691311505415046/87097                                                                                          
+#EXTINF:-1,group-title="Deportes", DIRECT TV SPORTS 2
+http://pn.tvott.info:80//691311505415046/691311505415046/87096                                                                                          
+#EXTINF:-1,group-title="Deportes", DIRECT TV SPORTS PLUS
 http://pn.tvott.info:80/691311505415046/691311505415046/87095
-#EXTINF:-1,ESPN
-http://pn.tvott.info:80/691311505415046/691311505415046/87094
-#EXTINF:-1,ESPN 2
-http://pn.tvott.info:80/691311505415046/691311505415046/87093
-#EXTINF:-1,ESPN 3
-http://pn.tvott.info:80/691311505415046/691311505415046/87092
-#EXTINF:-1,ESPN+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes", Fox Sport  
+http://pn.tvott.info:80/691311505415046/691311505415046/87102                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes", Fox Sport 2 
+http://pn.tvott.info:80/691311505415046/691311505415046/87101                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes", Fox Sport 3   
+http://pn.tvott.info:80/691311505415046/691311505415046/87100                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes", ESPN 
+http://pn.tvott.info:80/691311505415046/691311505415046/87094                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes", ESPN 2  
+http://pn.tvott.info:80/691311505415046/691311505415046/87093                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes", ESPN 3 
+http://pn.tvott.info:80/691311505415046/691311505415046/87092                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes", ESPN EXTRA 
 http://pn.tvott.info:80/691311505415046/691311505415046/87091
-#EXTINF:-1, Garage TV
-http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
-#EXTINF:-1,CLARO SPORT 2
-http://pn.tvott.info:80/691311505415046/691311505415046/86933
-#EXTINF:-1,WIN SPORT HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png",group-title="Deportes", Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8  
+#EXTINF:-1 , group-title="Deportes", BEIN LALIGA 
 http://pn.tvott.info:80/691311505415046/691311505415046/86932
-#EXTINF:-1,CLARO SPORT
+#EXTINF:-1 ,group-title="Deportes", claro sport 
 http://pn.tvott.info:80/691311505415046/691311505415046/86931
-#EXTINF:-1, Red Bull TV
-http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
-
-#EXTINF:-1, Private
+#EXTINF:-1 group-title="Adultos", Private
 http://my.streamerstv.com:25461/Andy/Andy/853
-#EXTINF:-1, BRAZZERS TV EUROPE
+#EXTINF:-1 group-title="Adultos", BRAZZERS TV EUROPE
 http://my.streamerstv.com:25461/Andy/Andy/836
-#EXTINF:-1, DORCEL
+#EXTINF:-1 group-title="Adultos", DORCEL
 http://my.streamerstv.com:25461/Andy/Andy/837
-#EXTINF:-1, DORCEL XXX
+#EXTINF:-1 group-title="Adultos", DORCEL XXX
 http://my.streamerstv.com:25461/Andy/Andy/838
-#EXTINF:-1, EVIL ANGEL
+#EXTINF:-1 group-title="Adultos", EROX
+http://my.streamerstv.com:25461/Andy/Andy/839
+#EXTINF:-1 group-title="Adultos", EVIL ANGEL
 http://my.streamerstv.com:25461/Andy/Andy/840
-#EXTINF:-1,PLAYBOY
+#EXTINF:-1 group-title="Adultos",PLAYBOY
 http://my.streamerstv.com:25461/Andy/Andy/851
-#EXTINF:-1, VIVID RED
+#EXTINF:-1 group-title="Adultos", VIVID RED
 http://my.streamerstv.com:25461/Andy/Andy/856
-#EXTINF:-1,XXX: BLACK TV
-http://my.streamerstv.com:25461/Andy/Andy/2826
-#EXTINF:-1, BARELY LEGAL TV
+#EXTINF:-1 group-title="Adultos",XXX: BLACK TV
+http://my.streamerstv.com:25461/Andy/Andy/2826                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+#EXTINF:-1 group-title="Adultos", BARELY LEGAL TV
 http://31.202.57.42:4022/udp/239.2.10.3:1234
-#EXTINF:-1, XXX Live
+#EXTINF:-1 group-title="Adultos", XXX Live
 http://188.113.190.12/318/video.m3u8
+#EXTINF:-1 group-title="Adultos", VIST X
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
