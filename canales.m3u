@@ -5,13 +5,13 @@ http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQFUby8.png" group-title="NOTICIAS", canal 26 
 http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VZH3c3O.png" group-title="NOTICIAS", A24 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-24_m.png" group-title="NOTICIAS", A24 
 http://pn.tvott.info:80/691311505415046/691311505415046/87106                                                                                                                               
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VZH3c3O.png" group-title="NOTICIAS", C5N
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTqGg2bWg02R5un1pFAeuYDMGAVCmna52i__wapvw=s900-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS", C5N
 http://pn.tvott.info:80/691311505415046/691311505415046/87108                                                                                                                               
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VZH3c3O.png" group-title="NOTICIAS", CRONICA tv
+#EXTINF:-1 tvg-logo="https://vod.magma.qaotic.net/media/posters-live/cronica/placa_cronica2019.jpg" group-title="NOTICIAS", CRONICA TV
 http://pn.tvott.info:80/691311505415046/691311505415046/87112                                                                                                                               
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VZH3c3O.png" group-title="NOTICIAS", TN NOTICIAS  
+#EXTINF:-1 tvg-logo="https://tn.com.ar/pf/resources/images/live-placeholder-small.png?d=169" group-title="NOTICIAS", TN NOTICIAS  
 http://pn.tvott.info:80/691311505415046/691311505415046/87109                                                                                          
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VZH3c3O.png" group-title="NOTICIAS", El nueve  
 http://pn.tvott.info:80/691311505415046/691311505415046/87121                                                                                                                               
@@ -25,13 +25,13 @@ http://pn.tvott.info:80/691311505415046/691311505415046/86929
 https://rt-esp.secure.footprint.net/1102_4500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mR7mxPY.png" group-title="NOTICIAS", TV Publica Argentina  
 http://pn.tvott.info:80/691311505415046/691311505415046/87125                                                                                                                               
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ojP9uxU.png" group-title="NOTICIAS", America TV  
+#EXTINF:-1 tvg-logo="https://www.radionacional.gov.py/wp-content/uploads/2018/04/ar_america-2-capital_m.png" group-title="NOTICIAS", America TV  
 http://pn.tvott.info:80/691311505415046/691311505415046/87124  
-#EXTINF:-1,tvg-logo="https://i.imgur.com/ojP9uxU.png" group-title="NOTICIAS", TELEMUNDO INTERNACIONAL
+#EXTINF:-1,tvg-logo="https://media3.s-nbcnews.com/i/newscms/2019_39/3025091/telemundo-noticias-social_3ce22bb0b4b89f8387927c7d3a205a9c.png?ramen_itok=iqwQftIcTf" group-title="NOTICIAS", TELEMUNDO INTERNACIONAL
 http://pn.tvott.info:80/691311505415046/691311505415046/87034                                                                                                                            
 #EXTINF:-1 tvg-id="45088" tvg-name="Canal Rural" tvg-logo="https://lh3.googleusercontent.com/-6W3lyz48LJQ/X8__9zMfZDI/AAAAAAAA8Cs/yddCBer685MzMn3-Z4sqv6IouOkY_hdcgCK8BGAsYHg/s0/2020-12-08.jpg", Canal Rural
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8 
-#EXTINF: -1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIZcnKiQfbpWkPGPY2YHuDOpiC2NXcp99Rqjn531gSxt7v2-6Xma8VhFWgotOh_kuVQY8&usqp=CAU" group-title="NOTICIAS", Argentinisima Satelital
+#EXTINF: -1,tvg-logo="https://image.roku.com/developer_channels/prod/ff4d9d408680e266c5a2fc72124e83107f5fc4b0cf31bd37fd81d224606661fe.png" group-title="NOTICIAS", Argentinisima Satelital
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m3u8
 #EXTINF: -1,tvg-logo="https://pbs.twimg.com/profile_images/1083024133062123521/cHU8zOpn.jpg" group-title="NOTICIAS", Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8                                   
@@ -59,20 +59,16 @@ http://pn.tvott.info:80/691311505415046/691311505415046/87103
 http://pn.tvott.info:80/691311505415046/691311505415046/86944                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="Cultura", Discovery Channel  
 http://pn.tvott.info:80/691311505415046/691311505415046/86951                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HWv6NHE.jpg" group-title="Cultura", Discovery Turbo 
-http://pn.tvott.info:80/691311505415046/691311505415046/86947
-#EXTINF:-1,tvg-logo="https://i.imgur.com/HWv6NHE.jpg" group-title="Cultura", DISCOVERY INVESTIGACION
+#EXTINF:-1,tvg-logo="https://como-funciona.com/wp-content/uploads/2019/02/investigacion-d-800x400.jpg" group-title="Cultura", DISCOVERY INVESTIGACION
 http://pn.tvott.info:80/691311505415046/691311505415046/86950                                                                                                                              
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MyPyuM2.jpg" group-title="Cultura", Discovery Sciences  
 http://pn.tvott.info:80/691311505415046/691311505415046/86945                                       
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OO9PaGb.jpg" group-title="Cultura", Discovery H&H  
 http://pn.tvott.info:80/691311505415046/691311505415046/86949
-#EXTINF:-1, tvg-logo="https://i.imgur.com/OO9PaGb.jpg" group-title="Cultura", DISCOVERY TURBO
+#EXTINF:-1, tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSX21ZTqddlO31hOYGNmWiTKy4h6rkhYafqKamAkQ=s900-c-k-c0x00ffffff-no-rj" group-title="Cultura", DISCOVERY TURBO
 http://pn.tvott.info:80/691311505415046/691311505415046/86947
-#EXTINF:-1, tvg-logo="https://i.imgur.com/OO9PaGb.jpg" group-title="Cultura", DISCOVERY THEATER
+#EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/P3I-giYVl7Y/maxresdefault.jpg" group-title="Cultura", DISCOVERY THEATER
 http://pn.tvott.info:80/691311505415046/691311505415046/86946
-#EXTINF: -1, tvg-logo="https://i.imgur.com/OO9PaGb.jpg" group-title="Cultura", ID
-http://pn.tvott.info:80/691311505415046/691311505415046/86942                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XW8CuxK.jpg" group-title="Cultura", TLC  
 http://pn.tvott.info:80/691311505415046/691311505415046/87012                                                                                                                                                                                
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/history_channel_c.png" group-title="Cultura", History 
@@ -148,7 +144,7 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tOWSdVk.jpg" group-title="CINE",Cinecanal  
 http://pn.tvott.info:80/691311505415046/691311505415046/86993                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    #EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="CINE",Cinemax
 http://pn.tvott.info:80/691311505415046/691311505415046/86956                                                                                                                                                                                                                                  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="CINE", Max Up
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Max-up-canal.png" group-title="CINE", Max Up
 http://pn.tvott.info:80/691311505415046/691311505415046/86978                                                                                                                                                                                                                                                                        
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ybgGUDk.jpg" group-title="CINE",Paramount Channel  
 http://pn.tvott.info:80/691311505415046/691311505415046/86987                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
@@ -164,11 +160,11 @@ http://pn.tvott.info:80/691311505415046/691311505415046/86988
 http://pn.tvott.info:80/691311505415046/691311505415046/87032                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/c1/a4/6ec1a4fa0de54eab32777165fdd8b8bc.jpg" group-title="CINE",E!
 http://pn.tvott.info:80/691311505415046/691311505415046/86972                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/c1/a4/6ec1a4fa0de54eab32777165fdd8b8bc.jpg" group-title="CINE", American Horrors
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Ecran_Titre_d%27American_Horror_Story.png" group-title="CINE", American Horrors
 http://170.178.189.66:1935/live/Stream1/.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/c1/a4/6ec1a4fa0de54eab32777165fdd8b8bc.jpg" group-title="CINE", CINE +
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/984560902233116673/zOzwt30v.jpg" group-title="CINE", CINE +
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/c1/a4/6ec1a4fa0de54eab32777165fdd8b8bc.jpg" group-title="CINE", Pelis
+#EXTINF:-1 tvg-logo="https://cdn2.unrealengine.com/es-es-13pr-movienite-newsheader-1900x600-1900x600-296082545.jpg" group-title="CINE", Pelis
 http://184.173.181.2:1935/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-id="106792" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png"group-title="CINE",Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
@@ -188,11 +184,11 @@ http://pn.tvott.info:80/691311505415046/691311505415046/87099
 http://pn.tvott.info:80/691311505415046/691311505415046/87098                                                                                         
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQcRV3_pn8NFWf7HxvtSCVfkKIiNfAO5yXNq1CQ0K0=s900-c-k-c0x00ffffff-no-rj" group-title="Deportes", TyC Sports  
 http://pn.tvott.info:80/691311505415046/691311505415046/87090                                                                                                                                                                                                                                   
-#EXTINF:-1,group-title="Deportes", DIRECT TV SPORTS
+#EXTINF:-1,tvg-logo="https://dtvsportsimages.akamaized.net/site/common/og-banner.png?width=1200&height=630&content-type=png"group-title="Deportes", DIRECT TV SPORTS
 http://pn.tvott.info:80/691311505415046/691311505415046/87097                                                                                          
-#EXTINF:-1,group-title="Deportes", DIRECT TV SPORTS 2
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/DirecTV_Sports_2_2015.png/revision/latest/scale-to-width-down/200?cb=20200706224535&path-prefix=es"group-title="Deportes", DIRECT TV SPORTS 2
 http://pn.tvott.info:80//691311505415046/691311505415046/87096                                                                                          
-#EXTINF:-1,group-title="Deportes", DIRECT TV SPORTS PLUS
+#EXTINF:-1,tvg-logo="https://adictosaldeporte.com/logos/directv-sports-plus.png"group-title="Deportes", DIRECT TV SPORTS PLUS
 http://pn.tvott.info:80/691311505415046/691311505415046/87095
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes", Fox Sport  
 http://pn.tvott.info:80/691311505415046/691311505415046/87102                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
@@ -200,19 +196,19 @@ http://pn.tvott.info:80/691311505415046/691311505415046/87102
 http://pn.tvott.info:80/691311505415046/691311505415046/87101                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes", Fox Sport 3   
 http://pn.tvott.info:80/691311505415046/691311505415046/87100                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes", ESPN 
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/networks/65da1d56-3ffd-44d2-aacd-423b64437fb1/16x9/1280x720_20201212220237.jpg" group-title="Deportes", ESPN 
 http://pn.tvott.info:80/691311505415046/691311505415046/87094                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes", ESPN 2  
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0BbYqNQQTDI/maxresdefault.jpg" group-title="Deportes", ESPN 2  
 http://pn.tvott.info:80/691311505415046/691311505415046/87093                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes", ESPN 3 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/DOOr0RuuYN8/hqdefault.jpg" group-title="Deportes", ESPN 3 
 http://pn.tvott.info:80/691311505415046/691311505415046/87092                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes", ESPN EXTRA 
 http://pn.tvott.info:80/691311505415046/691311505415046/87091
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png",group-title="Deportes", Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8  
-#EXTINF:-1 , group-title="Deportes", BEIN LALIGA 
+#EXTINF:-1 ,tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="Deportes", BEIN LALIGA 
 http://pn.tvott.info:80/691311505415046/691311505415046/86932
-#EXTINF:-1 ,group-title="Deportes", claro sport 
+#EXTINF:-1 ,tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/0fca0b13917993.5627a51d4a4ca.png"group-title="Deportes", claro sport 
 http://pn.tvott.info:80/691311505415046/691311505415046/86931
 #EXTINF:-1 group-title="Adultos", Private
 http://my.streamerstv.com:25461/Andy/Andy/853
