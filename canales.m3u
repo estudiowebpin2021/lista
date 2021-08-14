@@ -5,7 +5,6 @@ http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQFUby8.png" group-title="NOTICIAS", canal 26 
 http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
-
 #EXTINF:-1,*ARG_SD:ESPN
 http://todos.aesat.com:38953/esteban2405/71446451/74441
 #EXTINF:-1,*ARG_HD:ESPN
