@@ -1,5 +1,5 @@
 #EXTINF: -1, Telefe Rosario
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+https://tlfcapitalhls-lh.akamaihd.net/i/canal5rosario_1@685724/master.m3u8?hdnea=st=1632780358~exp=1632956758~acl=/i/canal5rosario_1@685724/*~hmac=f133405d000e4fd60fb07f09bc03b7bdd3796fcf4e37337e5a6775e559a8faca
 #EXTINF:-1, Canal 3 Rosario
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 #EXTINF:-1, Star Channel
