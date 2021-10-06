@@ -1,5 +1,5 @@
 #EXTINF: -1, Telefe Rosario
-https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=st=1633346069~exp=1633353269~acl=/i/appmitelefe_1@326430/*~hmac=f78cf080f01b1902e988d63854e41d24bae0688738bac2e591f9408d73a71b5e
+https://tlfcapitalhls-lh.akamaihd.net/i/canal5rosario_1@685724/master.m3u8?hdnea=st=1633478585~exp=1633654985~acl=/i/canal5rosario_1@685724/*~hmac=5ff7f61c9d8e3d8faa465214df5b72b3ba9d510f90e3a7f979310b6ecaeba565
 #EXTINF:-1, Canal 3 Rosario
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 #EXTINF:-1, Star Channel
