@@ -1,5 +1,5 @@
 #EXTINF: -1, Telefe Rosario
-https://televisionlibre.net/embed2/telefe.html
+https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/index_1_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1633791852~acl=%2fi%2fappmitelefe_1%40326430%2f*~data=hdntl~hmac=4497489a31a9f2dbae02e93325e56237a247888b3a4e0d9e3b9ff6645b8a9df6
 #EXTINF:-1, Canal 3 Rosario
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 #EXTINF:-1, Star Channel
