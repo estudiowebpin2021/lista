@@ -6,15 +6,9 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/p
 https://edge1.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8
 #EXTINF:-1, 26
 http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1, RT en Español
-https://rt-esp.secure.footprint.net/1102_4500Kb.m3u8
 #EXTINF:-1, Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
-#EXTINF:-1, Tyc Sport
-https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
-#EXTINF:-1, Fútbol
-https://playback2.akamaized.net/streams/23200525_9904663_lsipg573qkhjtkirgeb_1/master.m3u8?dw=80&hdnts=exp=1635033780~acl=/streams/23200525_9904663_lsipg573qkhjtkirgeb_1/master.m3u8*~hmac=222e6aea0f5d880bdf7dd8bb51f56c31311fb7742dee33c9374272afcc8820e2
-#EXTINF:-1, Pelis
+#EXTINF:-1, teleman
 http://184.173.181.2:1935/8062/8062/playlist.m3u8
 #EXTINF:-1,Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
