@@ -15,3 +15,5 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
 #EXTINF:-1, Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF: -1, river vs central
+https://livestreamapis.com/v3/accounts/27014129/events/8167338/master.m3u8?token=8f5a780c7c58d7f8bd41aa84eac6d3b3&clientId=18998&timestamp=1638130799796&signature=605c4756797d80000dfb2d167eacd10e067f9e2be6b8cd908e1b25c3a2fbefcbd484201b8b979b68f8308f4dad120239
