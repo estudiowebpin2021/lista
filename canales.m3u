@@ -3,12 +3,8 @@
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?WebM3UCL
 #EXTINF: -1, Canal 3 Rosario
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
-#EXTINF: -1, Futbol en vivo
-https://centurylink.br.cdn.booyah.live/hls/1000007/97001328.m3u8
 #EXTINF: -1, 26
 http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
-#EXTINF: -1, Tyc Sport
-https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 #EXTINF:-1, Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1, retro music
