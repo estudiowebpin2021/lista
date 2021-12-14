@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF: -1, Telefe Rosario 
-https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=st=1639358172~exp=1639365372~acl=/i/appmitelefe_1@326430/*~hmac=3ce88d0bd9690ccfbffe81cc0a9acf23727cdb05f278885da959146269594f92
+https://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 #EXTINF: -1, Canal 3 Rosario
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 #EXTINF: -1, TN Noticias
