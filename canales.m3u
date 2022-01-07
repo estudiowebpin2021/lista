@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF: -1, Telefe Rosario 
 https://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
+#EXTINF: -1, Telefe
+https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF: -1, Canal 3 Rosario
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 #EXTINF: -1, TN Noticias
