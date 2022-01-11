@@ -9,6 +9,8 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/p
 https://api.vodgc.net/player/v2/embed/playerId/RB8R461595529582/contentId/817291?autoplay=true
 #EXTINF: -1, 26
 http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
+#EXTINF: -1,  Tv Publica
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1641936007/ei/J6DdYYi6Fs6J6dsP5tGeqAE/ip/185.22.154.19/id/-CLIP5r4e_c.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr17---sn-n8v7knez.googlevideo.com/vprv/1/playlist_type/LIVE/initcwndbps/3990/mh/GR/mm/44/mn/sn-n8v7knez/ms/lva/mv/m/mvi/17/pl/24/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1641913955/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,vprv,playlist_type/sig/AOq0QJ8wRgIhAPwKGVcAn9u76wrORblJmkgBeDkF7umkqMrBc8frSBVhAiEArOHiYOnytgwa3je-L7IlI2V8z3aVuQ7bs4k22lLV7q0%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgI_O9NSWx8KnYxdTO_6pGCQ3xS9TBPtGCRMDTZPyIDQ4CID68RFPMaGWhcHAUDpBj6FjOWTUnWTVbru8lAWhsVDsd/playlist/index.m3u8
 #EXTINF:-1, Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1, retro music
@@ -19,7 +21,7 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
 #EXTINF:-1, Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
-#EXTINF: -1, fútbol 
+#EXTINF: -1, TYC Sport
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 #EXTINF: -1,Ex Casados
 https://fvs.io/redirector?token=dHlBYW5aMXphNElMR1lhSHFyS3Q1K01BRlZSME81SDJoQ0pzbGZJTjl2ZFV3dFJFS2xaSzEzSE9zQ3N6QTIzNzlYV1FmOFJKbk5sUk1XQlV3UktEMDB2cmxWN0hjYitrUTJ5eFJGVTl6SjFLYXBJZlJYN2FQWWQ0SnlsK0hLdU5zN2pwMVdZVGIyblhFM2dSSFQ3UGNKcFJwT3FWYUw2ZUtKcz06M1RqOXdQUExXa0JURHpzd2p6Ym4xZz09R3jl
