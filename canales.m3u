@@ -23,7 +23,6 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w19153785
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 #EXTINF: -1, TYC Sport
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
-#EXTINF: -1,Ex Casados
-https://fvs.io/redirector?token=dHlBYW5aMXphNElMR1lhSHFyS3Q1K01BRlZSME81SDJoQ0pzbGZJTjl2ZFV3dFJFS2xaSzEzSE9zQ3N6QTIzNzlYV1FmOFJKbk5sUk1XQlV3UktEMDB2cmxWN0hjYitrUTJ5eFJGVTl6SjFLYXBJZlJYN2FQWWQ0SnlsK0hLdU5zN2pwMVdZVGIyblhFM2dSSFQ3UGNKcFJwT3FWYUw2ZUtKcz06M1RqOXdQUExXa0JURHpzd2p6Ym4xZz09R3jl
-#EXTINF: -1,Made in Italia 
-https://www594.ff-02.com/token=a_ddFQdS9ekzWh3SSWlGEA/1642836186/181.9.0.0/102/0/1d/c6f50092ff7cded63ded211645b271d0-480p.mp4
+#EXTINF: -1, Fútbol
+https://playback2.akamaized.net/streams/27014129_8167338_lsixpfth4egkq3fi7fq_1/master.m3u8?dw=80&hdnts=exp=1645395620~acl=/streams/27014129_8167338_lsixpfth4egkq3fi7fq_1/master.m3u8*~hmac=d8a43521f2de5fcac4a12063e8cb968f6b13dd73d6f60f73cfdebaba9a93291d
+
