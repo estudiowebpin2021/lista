@@ -22,12 +22,10 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w19153785
 #EXTINF:-1, Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 #EXTINF: -1, TYC Sport internacional
-https://playback2.akamaized.net/streams/23200525_10231217_lsi6hs6asj2a6hvqa2v_1/master.m3u8?dw=80&hdnts=exp=1647790477~acl=/streams/23200525_10231217_lsi6hs6asj2a6hvqa2v_1/master.m3u8*~hmac=c5a2c9dd76568c965bb93ca52289f8b5ef8b1763cfd27ad2eb2f8f3afb6d2ca2
+https://playback2.akamaized.net/streams/23200525_10231217_lsi6hs6asj2a6hvqa2v_1/master.m3u8?dw=80&hdnts=exp=1647792501~acl=/streams/23200525_10231217_lsi6hs6asj2a6hvqa2v_1/master.m3u8*~hmac=63587fe5fd55aaa30c77b7a67f9e5245fc55d40c447ad6d2d9cae210d25647ab
 #EXTINF: -1, TNT Sport
 https://edge-mix02-ird.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-#EXTINF: -1, AFA Play
-https://livestreamapis.com/v3/accounts/23200525/events/10256126/videos/230010893.m3u8?token=c24e1bd4ec1bfc4837af8544486dcfae&clientId=18998&timestamp=1647790339746&signature=89efc322b133cf274e466beebd74007a4bbd2c4a8898a0b308782469b960e2a243c480605433e5e6c43990c0c0e0239b
-#EXTINF: -1,ESPN
-https://live-akc-sa-east-2.media.starott.com/gru1/qb02/starplus/event/2022/03/20/Monaco_vs_Paris_SaintGerm_20220320_1647771630064/ctr-all-sliding.m3u8
+#EXTINF: -1, TNT Sport 2
+https://livestreamapis.com/v3/accounts/23200525/events/10256126/videos/230010893.m3u8?token=f02af2601e375fc24437e34dd6d8ef66&clientId=18998&timestamp=1647791697388&signature=89efc322b133cf274e466beebd74007abf1da330899f3d4c30f8f2f94c0deefbdfd2f06cad86787425fce67920b922b8
 #EXTINF: -1,Fox Sports Premium
 https://chromecast.cvattv.com.ar//live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
