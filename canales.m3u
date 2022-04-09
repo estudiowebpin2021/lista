@@ -11,163 +11,17 @@ https://api.vodgc.net/player/v2/embed/playerId/RB8R461595529582/contentId/817291
 http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
 #EXTINF: -1, TYC Sport internacional
 https://cdn.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
-#EXTINF: -1, TNT Deportes
+#EXTINF: -1, TNT Deporte
 https://edge-mix02-ird.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 #EXTINF: -1, Fox Sports Premium
 https://chromecast.cvattv.com.ar//live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
-#EXTINF:-1 tvg-id="K17JIDT4.us" tvg-country="HISPAM;US" tvg-language="Español" tvg-logo="https://i.imgur.com/4ydVVIA.png" grupo -title="Religioso",3ABN Latino (480p)
-http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
-#EXTINF:-1 tvg-id="K18JLD2.us" tvg-country="HISPAM" tvg-language="Español" tvg-logo="https://i.imgur.com/4ydVVIA.png" group-title ="Religiosa",3ABN Latino (720p) [No 24/7]
-https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="AR" tvg-language="" tvg-logo="" group-title="Undefined",5RTv (720p) [No 24/7]
-https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
-#EXTINF:-1 tvg-id="5TV.ar" tvg-country="AR" tvg-language="Español" tvg-logo="https://i.imgur.com/kujnLsO.png" group-title ="Undefined",5TV (Corrientes) (480p) [No 24/7]
-http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-country="AR" tvg-language="Español" tvg-logo="https://i.imgur.com/6miysb8.png" group-title ="Noticias", 24/7 Canal de Noticias (720p)
-https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8
-#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-country="HISPAM" tvg-language="Español" tvg-logo="https://graph.facebook.com/agrotendencia/picture?width=320&height =320" group-title="Outdoor",AgrotendenciaTV (480p) [No 24/7]
-https://inliveserver.com:1936/15506/15506/playlist.m3u8
-#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-country="AR" tvg-language="Español" tvg-logo="https://i.imgur.com/Jo7p7yZ.png" group-title ="Indefinido",Argentinísima Satelital (720p)
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-country="INT" tvg-language="Inglés" tvg-logo="https://i.imgur.com/Nx0BRdV.png" título de grupo ="Noticias",BBC World News (576p)
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 tvg-id="Canal3Pinamar.ar" tvg-country="AR" tvg-language="Español" tvg-logo="" group-title="Indefinido",Canal 3 Pinamar (360p) [No 24/7]
-http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8
-#EXTINF:-1 tvg-id="Canal3Rosario.ar" tvg-country="AR" tvg-language="Español" tvg-logo="" group-title="Indefinido",Canal 3 Rosario (704p) [Geo -obstruido]
-https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal4Jujuy.ar" tvg-country="AR" tvg-language="Español" tvg-logo="https://cdn.pixabay.com/photo/2017/05/07 /14/59/bandera-2292664_960_720.png" group-title="Indefinido",Canal 4 Jujuy (720p)
-http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal9ComodoroRivadavia.ar" tvg-country="AR" tvg-language="Español" tvg-logo="https://cdn.pixabay.com/photo/2017/05/07 /14/59/flag-2292664_960_720.png" group-title="Undefined",Canal 9 (Comodoro Rivadavia) (576p) [No 24/7]
-https://live.canalnueve.tv/canal.m3u8
-#EXTINF:-1 tvg-id="Canal9Televida.ar" tvg-country="AR" tvg-language="Español" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn :ANd9GcQIgMORTmDFYoZ568zWDgjQ-hkmEHYDVGTFCw&usqp=CAU" group-title="Undefined",Canal 9 Televida (720p) [No 24/7]
-https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal10MardelPlata.ar" tvg-country="AR" tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e /Canal_10_Mar_del_Plata_%28Logo_2010%29.png" group-title="Undefined",Canal 10 Mar del Plata (720p) [No 24/7]
-https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal10RioNegro.ar" tvg-country="AR" tvg-language="Español" tvg-logo="https://i.imgur.com/PE2Gi3N.png" group-title ="Indefinido", Canal 10 Río Negro (720p) [No 24/7]
-http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal11LaRioja.ar" tvg-country="AR" tvg-language="Español" tvg-logo="https://i.imgur.com/Ji5XLWX.jpg" group-title ="Indefinido", Canal 11 La Rioja (Fénix Multiplataforma) (360p)
-http://stmv4.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal12PuertoMadryn.ar" tvg-country="AR" tvg-language="Español" tvg-logo="" group-title="Indefinido",Canal 12 Puerto Madryn (720p) [ No 24/7]
-https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal13LaRioja.ar" tvg-country="AR" tvg-language="Español" tvg-logo="https://i.imgur.com/j2lPlFe.png" group-title ="Indefinido", Canal 13 La Rioja (480p)
-http://arcast.net:1935/mp/mp/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-country="HISPAM" tvg-language="Español" tvg-logo="https://i.imgur.com/RN5wbXm.png" group-title ="Noticias", Canal 26 (720p)
-http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalC.ar" tvg-country="AR" tvg-language="Español" tvg-logo="" group-title="Indefinido",Canal C (Córdoba | Provincia de Córdoba ) (720p) [No 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/canalccordoba
-#EXTINF:-1 tvg-id="CanalProvincial.ar" tvg-country="AR" tvg-language="Español" tvg-logo="" group-title="Indefinido",Canal Provincial (San Miguel) (360p ) [No 24/7]
-http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
-#EXTINF:-1 tvg-id="CANALTDC.ar" tvg-country="AR" tvg-language="Español" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018 /02/TDC-TV-Santa-F%C3%A9-en-vivo-Online.png" group-title="Undefined",CANAL TDC (1080p) [No 24/7]
-https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="AR" tvg-language="" tvg-logo="" group-title="Undefined",CANAL.9 MULTIVISION (720p) [No 24/7 ]
-https://panel.dattalive.com/8250/8250/playlist.m3u8
-#EXTINF:-1 tvg-id="CatacamaTV.ar" tvg-country="AR" tvg-language="Español" tvg-logo="" group-title="Indefinido",Catacama TV (288p)
-https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8
-#EXTINF:-1 tvg-id="ChacoTV.ar" tvg-country="AR" tvg-language="Español" tvg-logo="https://i.imgur.com/JbxMs5i.png" group-title ="Indefinido",Chaco TV (720p) [No 24/7]
-https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
-#EXTINF:-1 tvg-id="ChacraTV.ar" tvg-country="AR" tvg-language="Español" tvg-logo="https://i.imgur.com/mZlUGBf.jpg" group-title ="Indefinido",Chacra TV (480p) [No 24/7]
-https://s8.stweb.tv/chacra/live/playlist.m3u8
-#EXTINF:-1 tvg-id="CincoTV.ar" tvg-country="AR" tvg-language="Español" tvg-logo="https://i.pinimg.com/originals/2d/18/54 /2d185451c3cc188c39add960b94c6844.png" group-title="Undefined",Cinco TV (480p) [No 24/7]
-https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="AR" tvg-language="" tvg-logo="" group-title="Undefined",CINE.AR (720p) [No 24/7]
+#EXTINF:-1 Tv Pública 
+https://g3.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="AR" tvg-language="" tvg-logo="" group-title="Undefined",CINE.AR (720p) [Not 24/7]
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-#EXTINF:-1 tvg-id="CiudadTVResistencia.ar" tvg-country="AR" tvg-language="Español" tvg-logo="https://i.imgur.com/WxzqqFQ.jpg" group-title ="Indefinido",Ciudad TV Resistencia (Chaco) (720p) [No 24/7]
-http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="CrossingTVCrossingContenidos.ar" tvg-country="AR" tvg-language="Español" tvg-logo="" group-title="Entretenimiento",Crossing TV (Crossing Contenidos) (720p ) [No 24/7]
-https://vivo.solumedia.com:19360/crossing/crossing.m3u8
-#EXTINF:-1 tvg-id="DWEnglish.de" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/A1xzjOI.png" título de grupo ="Noticias",DW Inglés (1080p)
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="HISPAM" tvg-language="Español" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title ="Noticias",DW Español (1080p)
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-country="ES;HISPAM" tvg-language="Español" tvg-logo="https://i.imgur.com/cd0hP5e.png" grupo -title="Auto",El Garage TV (480p) [No 24/7]
-http://186.0.233.76:1935/Garaje/smil:garage.smil/master.m3u8
-#EXTINF:-1 tvg-id="EJTV.cr" tvg-country="HISPAM" tvg-language="Español" tvg-logo="https://graph.facebook.com/ejtvla/picture?width=320&height =320" group-title="Religious",Enlace Juvenil (EJTV) (288p) [No 24/7]
-https://api.new.livestream.com/accounts/ejtvla/events/2294538/live.m3u8
-#EXTINF:-1 tvg-id="EnlaceTV.cr" tvg-country="HISPAM" tvg-language="Español" tvg-logo="https://graph.facebook.com/enlacetv/picture?width=320&height =320" group-title="Religious",EnlaceTV (720p) [No 24/7]
-https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
-#EXTINF:-1 tvg-id="EWTNelCanalCatolico.us" tvg-country="ES;HISPAM" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/cl_ewtn_m.png " group-title="Religious",EWTN el Canal Católico (720p) [No 24/7]
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="FenixTV.ar" tvg-country="AR" tvg-language="Español" tvg-logo="https://i.imgur.com/Op0zdh5.jpg" group-title ="Indefinido", Fenix ​​TV (Ciudad de La Rioja) (360p)
-https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
-#EXTINF:-1 tvg-id="France24English.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a /France24.png" group-title="Noticias",France 24 Inglés (1080p)
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-id="GenTV.ar" tvg-country="AR" tvg-language="Español" tvg-logo="" group-title="Indefinido",GenTV (720p) [No 24/ 7]
-https://videohd.live:19360/8010/8010.m3u8
-#EXTINF:-1 tvg-id="HiperconectadosTV.cl" tvg-country="HISPAM" tvg-language="Español" tvg-logo="https://graph.facebook.com/hiperconectadostv/picture?width=320&height =320" group-title="Ciencia",Hiperconectados Televisión (720p)
-https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="AR" tvg-language="" tvg-logo="" group-title="Undefined",Informacion Periodística (1080p)
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
-#EXTINF:-1 tvg-id="LaVozDeTucuman.ar" tvg-country="AR" tvg-language="Español" tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2021/11 /LOGOTRANSPARENTE2-1-600x187.png" group-title="Undefined",La Voz de Tucumán (480p)
-https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
-#EXTINF:-1 tvg-id="LatinoKids.uy" tvg-country="HISPAM" tvg-language="Español" tvg-logo="https://graph.facebook.com/LatinoKidsTvUruguay/picture?width=300&height =300" group-title="Entretenimiento",LatinoKids (360p) [No 24/7]
-https://videostreaming.cloudserverlatam.com/8066/8066/playlist.m3u8
-#EXTINF:-1 tvg-id="MultivisionFederal.ar" tvg-country="AR" tvg-language="Español" tvg-logo="https://i.imgur.com/sZ1yE4e.png" group-title ="Indefinido",Multivisión Federal (720p) [No 24/7]
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-#EXTINF:-1 tvg-id="MusicTop.ar" tvg-country="AR" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png" grupo -title="Música",MúsicaTop (720p)
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NetTV.ar" tvg-country="AR" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/ar_net-tv_m.png " group-title="Indefinido",NET TV (720p)
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-country="HISPAM" tvg-language="Español" tvg-logo="https://i.imgur.com/exdDHml.png" group-title ="Religiosa",Nuevo Tiempo (720p) [No 24/7]
-https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PlatziTV.es" tvg-country="ES;HISPAM" tvg-language="Español" tvg-logo="https://platform-static.cdn.mdstrm.com/player /logo/s-live-5b9076d18ef7b22560354649.png?184" group-title="Educación",Platzi TV (1080p)
-https://mdstrm.com/live-stream-playlist/5b9076d18ef7b22560354649.m3u8
-#EXTINF:-1 tvg-id="PowerTV.ar" tvg-country="AR" tvg-language="Español" tvg-logo="" group-title="Indefinido",Power TV (720p) [No 24 /7]
-https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioTVNeuquen.ar" tvg-country="AR" tvg-language="Español" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/rtn -neuqun-1517.jpg" group-title="Indefinido",Radio TV Neuquen (720p) [No 24/7]
-http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="INT" tvg-language="Inglés" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" título-grupo ="Deportes", Red Bull TV (1080p)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="RTNews.ru" tvg-country="INT" tvg-language="Inglés" tvg-logo="https://i.imgur.com/tyXIHlj.png" título de grupo ="Noticias",RT Noticias (1080p) [Bloqueado geográficamente]
-https://live-hr6yv36f.rmbl.ws/slot-30/ngrp:srak-wx8r_all/playlist.m3u8
-#EXTINF:-1 tvg-id="RTN.ar" tvg-country="AR" tvg-language="Español" tvg-logo="https://i.imgur.com/daMqavf.jpg" group-title ="Indefinido",RTN (Neuquén) (720p) [No 24/7]
-http://media.neuquen.gov.ar/rtn/television/media.m3u8
-#EXTINF:-1 tvg-id="SantaMariaTV.ar" tvg-country="AR" tvg-language="Español" tvg-logo="" group-title="Indefinido",Santa María TV (360p) [No 24/7]
-http://www.trimi.com.ar/santa_maria/streaming/mystream.m3u8
-#EXTINF:-1 tvg-id="SEOTV.bo" tvg-country="HISPAM" tvg-language="Español" tvg-logo="https://graph.facebook.com/Seo.Tv.sat/picture ?width=300&height=300" group-title="General",SEO TV (720p) [No 24/7]
-https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
-#EXTINF:-1 tvg-id="SEOTVNovelas.bo" tvg-country="HISPAM" tvg-language="Español" tvg-logo="https://graph.facebook.com/Seo.Tv.sat/picture ?width=300&height=300" group-title="Series",SEO TV Novelas (540p) [No 24/7]
-https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
-#EXTINF:-1 tvg-id="SoloStandUp.cl" tvg-country="HISPAM" tvg-language="Español" tvg-logo="https://graph.facebook.com/solostanduptv/picture?width=300&height =300" group-title="Comedia",SoloStandUp (480p) [No 24/7]
-https://paneltv.online:1936/8116/8116/playlist.m3u8
-#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-country="HISPAM" tvg-language="Español" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title ="Cocinando",Tastemade en Español (1080p)
-https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-country="AR" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe-rosario_m.png " group-title="Indefinido",Telefe Rosario (720p) [No 24/7]
-http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
-#EXTINF:-1 tvg-id="Telemax.ar" tvg-country="AR" tvg-language="Español" tvg-logo="https://i.imgur.com/1XgRcmd.png" group-title ="Indefinido", Telemax (720p)
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1 tvg-id="TelenordCorrientes.ar" tvg-country="AR" tvg-language="Español" tvg-logo="https://i.imgur.com/byxXHzq.png" group-title ="Indefinido",Telenord Corrientes (1080p) [No 24/7]
-http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TelesolTLS.ar" tvg-country="AR" tvg-language="Español" tvg-logo="https://telesol.tv/wp-content/uploads/2020/06 /LOGO-FINAL-TELESOL-2020.png" group-title="Undefined",Telesol (TLS) (432p) [No 24/7]
-https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
-#EXTINF:-1 tvg-id="TelpinTV.ar" tvg-country="AR" tvg-language="Español" tvg-logo="" group-title="Indefinido",Telpin TV (1080p) [No 24 /7]
-https://wowza.telpin.com.ar:1935/telpintv/ttv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Tevex.cl" tvg-country="CL;HISPAM" tvg-language="Español" tvg-logo="https://tevex.cl/wp-content/uploads/2021 /01/logo_tevex_formato_3.svg" group-title="Business",Tevex (720p) [No 24/7]
-https://v4.tustreaming.cl/tevexinter/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="AR" tvg-language="" tvg-logo="" group-title="Undefined",Tierra Mía TV (720p)
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-country="INT" tvg-language="Inglés" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" grupo -title="Noticias",TRT Mundo (720p) [No 24/7]
-https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TVManaArgentina.ar" tvg-country="AR" tvg-language="Español" tvg-logo="https://i.imgur.com/GVI8kkp.jpg" group-title ="Indefinido",TV Maná Argentina (576p) [No 24/7]
-http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-country="HISPAM" tvg-language="Español" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes /stability/images/logo_TVPE_PLAY.png" group-title="General",TV Perú Internacional (460p) [No 24/7]
-http://cdnh4.iblups.com/hls/irtp.m3u8
-#EXTINF:-1 tvg-id="TVGAmerica.es" tvg-country="ES;HISPAM" tvg-language="Galician" tvg-logo="https://i.imgur.com/1Z6svKc.jpg" grupo -title="General",TVG América (720p)
-https://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="TVUniversidad.ar" tvg-country="AR" tvg-language="Español" tvg-logo="https://pbs.twimg.com/profile_images/960549144657002496/9Rdtd6Ke_400x400.jpg " group-title="Educación",TVU Universidad Nacional de La Plata (720p) [No 24/7]
-https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
-#EXTINF:-1 tvg-id="UNWebTV.us" tvg-country="INT" tvg-language="Inglés" tvg-logo="https://i.imgur.com/lPyJhBN.png" título de grupo ="Noticias", ONU Web TV (540p)
-https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-id="VallenatoInternacional.us" tvg-country="HISPAM;US" tvg-language="Español" tvg-logo="https://graph.facebook.com/valleinalradio/picture?width =320&height=320" group-title="Música",Vallenato Internacional (720p) [No 24/7]
-https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
-#EXTINF:-1 tvg-id="VTV.ar" tvg-country="AR" tvg-language="Español" tvg-logo="https://graph.facebook.com/vertvgs/picture?width=320&height =320" group-title="Undefined",VerTV (VTV) (720p) [No 24/7]
-https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
-#EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title ="Estilo de vida",World Fashion Channel (1080p)
-https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
-#EXTINF: -1, Telemax 
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1, Parte superior de la música
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1, musica retro
+#EXTINF:-1, música retro
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
 #EXTINF:-1, M20Tv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
