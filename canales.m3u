@@ -1,10 +1,21 @@
+paste
+adrianlopezahacks
+ 
+adrianlopezahacks
+tv
+ADRIANLOPEZAHACKS
+JUN 17TH, 2021 (EDITED)
+283
+NEVER
+1.26 KB
+   
 #EXTM3U
 #EXTINF: -1, Telefé Rosario
 https://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 #EXTINF: -1, Telefé
 https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF: -1, Canal 3 Rosario
-https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
+https://g2.proy-hor.transport.edge-access.net/a10/ngrp:rosario3_live01-100168_all/Playlist.m3u8?sense=true
 #EXTINF: -1, TN Noticias
 https://api.vodgc.net/player/v2/embed/playerId/RB8R461595529582/contentId/817291?autoplay=true
 #EXTINF: -1, 26
@@ -12,13 +23,9 @@ http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
 #EXTINF: -1, TYC Sport internacional
 https://cdn.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 #EXTINF: -1, TNT Deporte
-https://edge-mix02-ird.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+https://dlx1rvhnuclfo.cloudfront.net/hls/53/index.m3u8
 #EXTINF: -1, Fox Sports Premium
 https://chromecast.cvattv.com.ar//live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
-#EXTINF:-1 Tv Pública 
-https://g3.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="AR" tvg-language="" tvg-logo="" group-title="Undefined",CINE.AR (720p) [Not 24/7]
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1, Parte superior de la música
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1, música retro
