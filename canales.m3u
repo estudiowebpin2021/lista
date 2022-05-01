@@ -1,14 +1,3 @@
-paste
-adrianlopezahacks
- 
-adrianlopezahacks
-tv
-ADRIANLOPEZAHACKS
-JUN 17TH, 2021 (EDITED)
-283
-NEVER
-1.26 KB
-   
 #EXTM3U
 #EXTINF: -1, Telefé Rosario
 https://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
@@ -34,3 +23,5 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1,Portal Foxmix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
+#EXTINF:-1,La ciudad perdida
+https://vd249.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1651530667759&srcIp=190.2.112.86&srcAg=CHROME_ANDROID&ms=45.136.21.50&type=4&sig=Ta2qw9a_n4o&ct=8&urls=45.136.20.33&clientType=0&id=2485520697972
