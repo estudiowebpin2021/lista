@@ -9,10 +9,12 @@ https://g2.proy-hor.transport.edge-access.net/a10/ngrp:rosario3_live01-100168_al
 https://api.vodgc.net/player/v2/embed/playerId/RB8R461595529582/contentId/817291?autoplay=true
 #EXTINF: -1, 26
 http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
+#EXTINF: -1,ESPN
+https://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 #EXTINF: -1, TYC Sport internacional
 https://cdn.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 #EXTINF: -1, TNT Deporte
-https://doqihcpi66mpe.cloudfront.net/hls/544/index.m3u8
+https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/master.m3u8?hdnea=st=1653237509~exp=1653238109~acl=/*~hmac=90cca4ede8cc8bc80549b0f7fa679345be6244f98bc35075b0a60f05412d052d
 #EXTINF: -1, Fox Sports Premium
 https://chromecast.cvattv.com.ar//live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 #EXTINF:-1, Parte superior de la música
@@ -23,5 +25,3 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1,Portal Foxmix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
-#EXTINF:-1, te sigo
-https://s73.upstreamcdn.co/hls/w47rytfrrjbnx2nro2x2axn7jz6qvvkx2m3bxlk2xmm3kjxzwaquh7aar2lq/master.m3u8
